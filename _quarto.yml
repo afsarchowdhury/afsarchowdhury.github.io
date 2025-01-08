@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "On the shoulders of data"
+  favicon: images/rzf.ico
+  site-url: https://afsarchowdhury.github.io/
+  description: "My thoughts in data"
+  # announcement: 
+  #   icon: info-circle
+  #   dismissable: true
+  #   content: "**Alert** Updated to Quarto on 05/01/2025.  Some funtionality may be lost."
+  #   type: primary
+  #   position: below-navbar
+  navbar:
+    logo: images/rzf.ico
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "About"
+        href: about.html
+      - icon: fab fa-github
+        href: https://github.com/afsarchowdhury
+      - icon: fa-solid fa-envelope
+        href: mailto:afsarchowdhury@proton.me
+      - icon: fa fa-rss
+        href: index.xml
+format:
+  html:
+    theme:
+      dark: solar
+      light: minty
+    css: styles.css
+
+editor: source
+
