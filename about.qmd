@@ -1,6 +1,6 @@
 ---
 title: "On the shoulders of data"
-image: "images/rzf.ico"
+image: "images/rzf.gif"
 about:
   template: jolla
   links:
