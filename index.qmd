@@ -1,5 +1,5 @@
 ---
-title: "Articles"
+title: "Musings of a rambleR"
 listing:
   contents: posts
   fields: [image, date, title, description, author, reading-time]

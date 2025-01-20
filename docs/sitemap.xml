@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://afsarchowdhury.github.io/posts/2025-01-09-welcome/index.html</loc>
-    <lastmod>2025-01-08T15:42:42.176Z</lastmod>
-  </url>
-  <url>
-    <loc>https://afsarchowdhury.github.io/about.html</loc>
-    <lastmod>2025-01-08T16:13:17.185Z</lastmod>
+    <loc>https://afsarchowdhury.github.io/posts/2025-01-19-malaysia-kl/malaysia-kl.html</loc>
+    <lastmod>2025-01-20T08:36:15.901Z</lastmod>
   </url>
   <url>
     <loc>https://afsarchowdhury.github.io/index.html</loc>
-    <lastmod>2025-01-05T13:01:09.198Z</lastmod>
+    <lastmod>2025-01-13T12:13:38.684Z</lastmod>
+  </url>
+  <url>
+    <loc>https://afsarchowdhury.github.io/about.html</loc>
+    <lastmod>2025-01-13T15:56:03.946Z</lastmod>
+  </url>
+  <url>
+    <loc>https://afsarchowdhury.github.io/posts/2025-01-09-welcome/welcome.html</loc>
+    <lastmod>2025-01-20T08:35:32.990Z</lastmod>
   </url>
 </urlset>

@@ -4,4 +4,7 @@
 .Ruserdata
 .Renviron
 
+ig_dat/
+ig_scripts/
+
 /.quarto/

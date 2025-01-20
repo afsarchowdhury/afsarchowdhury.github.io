@@ -1,0 +1,27 @@
+---
+title: "Welcome"
+description: |
+  Welcome to the musings of a rambler.
+author:
+  - name: Afsar Chowdhury
+citation: true
+date: "2025-01-09"
+categories: [welcome]
+---
+
+If you are here, you are probably lost.  You must be a rambler.  Maybe not in person, but certainly in mind and in spirit.
+
+**Ramble**
+
+/răm′bəl/
+
+intransitive verb
+
+* To move about aimlessly.  Synonym: wander.
+
+   > The mind rambles for hours in the labyrinth of roads not taken.
+
+Much ink has been spilled on the meaning of Robert Frost's [*The Road Not Taken*](https://www.youtube.com/watch?v=O4XFCxNY96k). [^1]  If you are worried that I intend to present myself as the wise-old-man-who-thinks-he-knows-it-all, don't be.  I know very little, if any, about poetry and less still about life.  Instead, here, you will find my prosaic musings on some of the roads *I* took.
+
+[^1]: * https://www.poetryfoundation.org/articles/89511/robert-frost-the-road-not-taken
+* https://poemanalysis.com/robert-frost/the-road-not-taken/

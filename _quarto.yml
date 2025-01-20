@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "On the shoulders of data"
+  title: "Afsar Chowdhury"
   favicon: images/rzf.ico
   site-url: https://afsarchowdhury.github.io/
-  description: "My thoughts in data"
+  description: "The musings of a rambler"
   # announcement: 
   #   icon: info-circle
   #   dismissable: true
@@ -20,11 +20,11 @@ website:
         href: index.html
       - text: "About"
         href: about.html
-      - icon: fab fa-github
+      - icon: github
         href: https://github.com/afsarchowdhury
-      - icon: fa-solid fa-envelope
+      - icon: envelope
         href: mailto:afsarchowdhury@proton.me
-      - icon: fa fa-rss
+      - icon: rss
         href: index.xml
 format:
   html:

@@ -1,5 +1,5 @@
 ---
-title: "On the shoulders of data"
+title: "Musings of a rambleR"
 image: "images/rzf.gif"
 about:
   template: jolla
@@ -7,7 +7,7 @@ about:
     - icon: github
       text: Github
       href: "https://github.com/afsarchowdhury"
-    - icon: email
+    - icon: envelope
       text: Email
       href: "mailto:afsarchowdhury@proton.me"
 ---
