@@ -4,7 +4,9 @@ listing:
   contents: posts
   fields: [image, date, title, description, author, reading-time]
   sort: "date desc"
-  type: default
+  type: grid
+  #image-placeholder: images/rzf.ico
+  #image-height: "128"
   categories: true
   sort-ui: false
   filter-ui: false
