@@ -72,7 +72,7 @@ Though I was tired, it was still too early to check into my hotel.  I needed to 
 
 ::: {#fig-places layout-ncol=2}
 
-![The National Mosque of Malaysia.](kl_national_mosque.jpg){#fig-mosque group="places"}
+![The mosque from the outside.](kl_national_mosque.jpg){#fig-mosque group="places"}
 
 ![Main prayer hall.](kl_national_mosque_02.jpg){#fig-mosque02 group="places"}
 
