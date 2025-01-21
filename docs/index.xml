@@ -103,23 +103,19 @@ Tip
 </div>
 </div>
 </div>
-<div class="quarto-layout-row">
-<div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-places" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div id="fig-sasb" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="places">
-<figure class="quarto-float quarto-subfloat-fig figure">
-<div aria-describedby="fig-sasb-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<a href="kl_national_textile_museum.jpg" class="lightbox" data-gallery="places" title="Figure&nbsp;2&nbsp;(c): National Textile Museum Building in the distance."><img src="https://afsarchowdhury.github.io/posts/2025-01-19-malaysia-kl/kl_national_textile_museum.jpg" class="img-fluid figure-img" data-ref-parent="fig-places"></a>
 </div>
-<figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-sasb-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-(c) National Textile Museum Building in the distance.
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-places-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;2: The National Mosque of Malaysia.
 </figcaption>
 </figure>
 </div>
+<div id="fig-ntm" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-ntm-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="kl_national_textile_museum.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4" title="Figure&nbsp;3: The National Textile Museum building in the distance."><img src="https://afsarchowdhury.github.io/posts/2025-01-19-malaysia-kl/kl_national_textile_museum.jpg" class="img-fluid figure-img"></a>
 </div>
-</div>
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-places-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;2: Places on my walk to the hotel.
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-ntm-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;3: The National Textile Museum building in the distance.
 </figcaption>
 </figure>
 </div>
@@ -127,10 +123,10 @@ Figure&nbsp;2: Places on my walk to the hotel.
 <div id="fig-bananafood" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-bananafood-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<a href="kl_banana_leaf.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Figure&nbsp;3: Food on the leaf of a banana tree. All for a princely sum of 8 MYR (~1.50 GBP)."><img src="https://afsarchowdhury.github.io/posts/2025-01-19-malaysia-kl/kl_banana_leaf.jpg" class="img-fluid figure-img"></a>
+<a href="kl_banana_leaf.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5" title="Figure&nbsp;4: Food on the leaf of a banana tree. All for a princely sum of 8 MYR (~1.50 GBP)."><img src="https://afsarchowdhury.github.io/posts/2025-01-19-malaysia-kl/kl_banana_leaf.jpg" class="img-fluid figure-img"></a>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-bananafood-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;3: Food on the leaf of a banana tree. All for a princely sum of 8 MYR (~1.50 GBP).
+Figure&nbsp;4: Food on the leaf of a banana tree. All for a princely sum of 8 MYR (~1.50 GBP).
 </figcaption>
 </figure>
 </div>
@@ -150,7 +146,7 @@ Figure&nbsp;3: Food on the leaf of a banana tree. All for a princely sum of 8 MY
 <div id="fig-kltemp" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="climate">
 <figure class="quarto-float quarto-subfloat-fig figure">
 <div aria-describedby="fig-kltemp-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<a href="kl_temp.png" class="lightbox" data-gallery="climate" title="Figure&nbsp;4&nbsp;(a): Temperature in Kuala Lumpur."><img src="https://afsarchowdhury.github.io/posts/2025-01-19-malaysia-kl/kl_temp.png" class="img-fluid figure-img" data-ref-parent="fig-climate"></a>
+<a href="kl_temp.png" class="lightbox" data-gallery="climate" title="Figure&nbsp;5&nbsp;(a): Temperature in Kuala Lumpur."><img src="https://afsarchowdhury.github.io/posts/2025-01-19-malaysia-kl/kl_temp.png" class="img-fluid figure-img" data-ref-parent="fig-climate"></a>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-kltemp-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 (a) Temperature in Kuala Lumpur.
@@ -164,7 +160,7 @@ Figure&nbsp;3: Food on the leaf of a banana tree. All for a princely sum of 8 MY
 <div id="fig-klrelh" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="climate">
 <figure class="quarto-float quarto-subfloat-fig figure">
 <div aria-describedby="fig-klrelh-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<a href="kl_relh.png" class="lightbox" data-gallery="climate" title="Figure&nbsp;4&nbsp;(b): Relative humidity in Kuala Lumpur."><img src="https://afsarchowdhury.github.io/posts/2025-01-19-malaysia-kl/kl_relh.png" class="img-fluid figure-img" data-ref-parent="fig-climate"></a>
+<a href="kl_relh.png" class="lightbox" data-gallery="climate" title="Figure&nbsp;5&nbsp;(b): Relative humidity in Kuala Lumpur."><img src="https://afsarchowdhury.github.io/posts/2025-01-19-malaysia-kl/kl_relh.png" class="img-fluid figure-img" data-ref-parent="fig-climate"></a>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-klrelh-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 (b) Relative humidity in Kuala Lumpur.
@@ -175,7 +171,7 @@ Figure&nbsp;3: Food on the leaf of a banana tree. All for a princely sum of 8 MY
 </div>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-climate-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;4: Climate in Kuala Lumpur.<sup>1</sup>
+Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
 </figcaption>
 </figure>
 </div>
