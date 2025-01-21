@@ -1,0 +1,25 @@
+---
+title: "The Pink Mosque"
+description: |
+  Getting to the Pink Mosque, Kuala Lumpur, Malaysia.
+author:
+  - name: Afsar Chowdhury
+citation: true
+categories: [mosque, kuala lumpur, malaysia]
+date: "2025-01-24"
+execute: 
+  eval: false
+  echo: false
+  message: false
+  warning: false
+  #fig-width: 9
+lightbox: true
+editor_options: 
+  chunk_output_type: console
+draft: true
+---
+
+Blah.
+
+![Putra Masjid (Pink Mosque).](pink_mosque_01.jpg){#fig-pinkmosque01}
+

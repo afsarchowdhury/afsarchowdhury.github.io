@@ -23,11 +23,13 @@ Kuala Lumpur is the first stop in my Asia trip.  Founded on the muddy confluence
 
 ![Where the two rivers meet.  Jame Masjid at the confluence of the Gumbak (left) and Klang (right) rivers.  It is quite pretty at night.](kl_two_rivers.jpg){#fig-kltworivers}
 
-## Manchester to Abu Dhabi
+## Getting there
+
+### Manchester to Abu Dhabi
 
 This was a six-hour 30-minute flight, made bearable only by the two people sat next to me: Dianne and Liam, a couple in their mid-50s from Yorkshire flying to Goa, India.  Dianne, an easy conversationalist, is an avid motorbiker.  She regaled me with stories of how she and Liam rode east to west on a Harley in the US, and similar trips to continental Europe.  Being a biker myself, I was, of course, jealous but happy for them.  They were nice and more than happy to share their stories (and snacks!).
 
-## Abu Dhabi to Kuala Lumpur
+### Abu Dhabi to Kuala Lumpur
 
 I was meant to transit in Abu Dhabi for one hour 30 minutes, but with delays taking off from Manchester, it was essentially a hop-off-hop-on at Abu Dhabi.
 
@@ -66,13 +68,15 @@ Being a backpacker, I was never going to take the taxi option.  I had wanted to 
 
 Arriving at KL Sentral, the immediate area surrounding the train station is not pedestrian friendly.  With a spaghetti mess of mutiple-lane carriageways snaking around multiple train stations close by, it was a mare trying to navigate my way out north.  It was hot (26 °C), it was humid, and the air felt stale, but the life of a backpacker is to see the world and so I was never going to call a taxi.  I ploughed on ahead on foot.
 
-Though I was tired, it was still too early to check into my hotel.  I needed to slow down.  I visited the [National Mosque of Malaysia](https://maps.app.goo.gl/AkV17uJaDCHmJPmf7), [Independence Square](https://maps.app.goo.gl/mJsomsqU1zDb7CSw7), and the beautiful [Sultan Abdul Samad Building](https://maps.app.goo.gl/WKJkyTh9vzNC3bDLA).
+Though I was tired, it was still too early to check into my hotel.  I needed to slow down.  I visited the [National Mosque of Malaysia](https://maps.app.goo.gl/AkV17uJaDCHmJPmf7), [Independence Square](https://maps.app.goo.gl/mJsomsqU1zDb7CSw7), the [National Textiles Museum](https://maps.app.goo.gl/JpFp1p2vNyqz4Xpd9), and the beautiful [Sultan Abdul Samad Building](https://maps.app.goo.gl/WKJkyTh9vzNC3bDLA).
 
 ::: {#fig-places layout-ncol=2}
 
 ![The National Mosque of Malaysia.](kl_national_mosque.jpg){#fig-mosque group="places"}
 
-![Sultan Abdul Samad Building in the distance.](kl_old_gov_building.jpg){#fig-sasb group="places"}
+![Main prayer hall.](kl_national_mosque_02.jpg){#fig-mosque02 group="places"}
+
+![National Textile Museum Building in the distance.](kl_national_textile_museum.jpg){#fig-sasb group="places"}
 
 Places on my walk to the hotel.
 :::
@@ -87,9 +91,11 @@ Stepping out of the restaurant's cool beguiling air and into the outside heat, i
 
 ## Climate
 
+Why so hot?
+
 There are many facets to climate, but the ones I care about most right now are *temperature* and *humidity*.
 
-There is an `R` package called [{riem}](https://github.com/ropensci/riem) that allows you to get hold of weather data from Automated Surface Observing Systems (ASOS).  These are weather stations found in airports all aound the world, many of which have been collecting data for more than 50 years.  The Kuala Lumpur International Airport (KLIA) dataset stretches back to 1949, but limiting myself to 2010 it looks like Kula Lumpur's temperature hovers aound 28 °C $\pm$ 2 °C, while relative humidity hovers around 80% all year round.  It is not uncommon for several days in a month to reach 100% relative humidity.
+There is an `R` package called [{riem}](https://github.com/ropensci/riem) that allows you to get hold of weather data from Automated Surface Observing Systems (ASOS).  These are weather stations found in airports all aound the world, many of which have been collecting data for more than 50 years.  The Kuala Lumpur International Airport (KLIA) dataset stretches back to 1949, but limiting myself to 2010 it looks like Kuala Lumpur's temperature hovers aound 28 °C $\pm$ 2 °C, while relative humidity hovers around 80% all year round.  It is not uncommon for several days in a month to reach 100% relative humidity.
 
 ::: {#fig-climate layout-ncol=1}
 
