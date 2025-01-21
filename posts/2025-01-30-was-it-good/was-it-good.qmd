@@ -1,0 +1,22 @@
+---
+title: "Was it a good school?"
+description: |
+  Defining and assessing a school.
+author:
+  - name: Afsar Chowdhury
+citation: true
+categories: [R, school, kuala lumpur, malaysia]
+date: "2025-01-30"
+execute: 
+  eval: false
+  echo: false
+  message: false
+  warning: false
+  #fig-width: 9
+lightbox: true
+editor_options: 
+  chunk_output_type: console
+draft: true
+---
+
+I was sat in a cafe in Bukit Bintang (the Piccadilly Circus of Kuala Lumpur) with a Finnish dude --- a fellow traveller doing the Asian archipelago circuit --- whose name I can neither pronounce nor type out.  After exchanging niceties, he asked "was it a good a school?"  I have always thought of my last school as a great school and my answer should have been immediate, but it was not.  I paused.  The question had thrown me off track.  It was like asking a physicist *what is light?*.
