@@ -212,31 +212,35 @@ January 19, 2025. <a href="https://afsarchowdhury.github.io/posts/2025-01-19-mal
 
 
 
-<p>If you are here, you are probably lost. You must be a rambler. Maybe not in person, but certainly in mind and in spirit.</p>
-<p><strong>Ramble</strong></p>
+<p>If you are here, you are probably lost. Of all the places on the internet you could have gone to, and of all the things you could be doing with your life, you are here. You must be a rambler. Maybe not in person, but certainly in mind and in spirit.</p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Ramble
+</div>
+</div>
+<div class="callout-body-container callout-body">
 <p>/răm′bəl/</p>
-<p>intransitive verb</p>
+<p>An intransitive verb.</p>
 <ul>
 <li><p>To move about aimlessly. Synonym: wander.</p>
 <blockquote class="blockquote">
-<p>The mind rambles for hours in the labyrinth of roads not taken.</p>
+<ul>
+<li>“He roamed and rambled […] to the sparkling sands of her diamond deserts.”</li>
+<li>The mind rambled for hours in the labyrinth of roads not taken.</li>
+</ul>
 </blockquote></li>
 </ul>
-<p>Much ink has been spilled on the meaning of Robert Frost’s <a href="https://www.youtube.com/watch?v=O4XFCxNY96k"><em>The Road Not Taken</em></a>. <sup>1</sup> If you are worried that I intend to present myself as the wise-old-man-who-thinks-he-knows-it-all, don’t be. I know very little, if any, about poetry and less still about life. Instead, here, you will find my prosaic musings on some of the roads <em>I</em> took.</p>
+</div>
+</div>
+<p>Here, you will find my prosaic musings on some of my rambles.</p>
 
 
 
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><ul>
-<li>https://www.poetryfoundation.org/articles/89511/robert-frost-the-road-not-taken</li>
-<li>https://poemanalysis.com/robert-frost/the-road-not-taken/</li>
-</ul>
-↩︎</li>
-</ol>
-</section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{chowdhury2025,
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{chowdhury2025,
   author = {Chowdhury, Afsar},
   title = {Welcome},
   date = {2025-01-09},
