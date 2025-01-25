@@ -19,19 +19,27 @@ editor_options:
 draft: false
 ---
 
+## Kuala Lumpur, Malaysia
+
 Kuala Lumpur is the first stop in my Asia trip.  Founded on the muddy confluence of the Gumbak and Klang rivers by, in part, Chinese tin miners and [bat poo](https://en.wikipedia.org/wiki/Guano) excavators in the 1800s, it is today one of the fastest growing cities in South East Asia.
 
 ![Where the two rivers meet.  Jame Masjid at the confluence of the Gumbak (left) and Klang (right) rivers.  It is quite pretty at night.](kl_two_rivers.jpg){#fig-kltworivers}
 
+I had heard great things about Kuala Lumpur and it sounded like the perfect place to kickstart my Asia tour.  People appear to treat it as base to come back to as they travel around neighbouring countries.
+
 ## Getting there
 
-### Manchester to Abu Dhabi
+I hate flying, mostly because I hate airports and all the wasted time in waiting around, standing in lines, going through security after security, followed by some more waiting around in departure lounges.  It also happens to be one of the few things that bring out the worst in humanity --- in my experience, at least.  In any case, it was the only reasonable way of my getting there --- walking, driving, or sailing really was not an option.
+
+I bought a one-way ticket to Kuala Lumpur from Manchester, to transit at Abu Dhabi, for £445.63.  Many countries will refuse you entry if you cannot show onward travel documents.  There is no mention of this for Malaysia on the [FCDO](https://www.gov.uk/foreign-travel-advice/malaysia/entry-requirements), but, just to be safe, I paid 5 MYR (~£1) for a train ticket from the last stop in Malaysia ([JB Sentral](https://maps.app.goo.gl/yjtrk9WeBa9yntda9)) to the first stop in Singapore ([Woodlands](https://maps.app.goo.gl/1YfCFmeKCPAF7XCJ8)).  There is a company that specialises in sorting out onward air tickets, aptly called [Onward Ticket](https://onwardticket.com/), but parting with £20 just seemed a waste of money to me.
+
+### First leg: Manchester to Abu Dhabi
 
 This was a six-hour 30-minute flight, made bearable only by the two people sat next to me: Dianne and Liam, a couple in their mid-50s from Yorkshire flying to Goa, India.  Dianne, an easy conversationalist, is an avid motorbiker.  She regaled me with stories of how she and Liam rode east to west on a Harley in the US, and similar trips to continental Europe.  Being a biker myself, I was, of course, jealous but happy for them.  They were nice and more than happy to share their stories (and snacks!).
 
-### Abu Dhabi to Kuala Lumpur
+### Second leg: Abu Dhabi to Kuala Lumpur
 
-I was meant to transit in Abu Dhabi for one hour 30 minutes, but with delays taking off from Manchester, it was essentially a hop-off-hop-on at Abu Dhabi.
+I was meant to transit in Abu Dhabi for one hour 30 minutes, but with delays taking off from Manchester it was essentially a hop-off-hop-on at Abu Dhabi.
 
 Elated at being seated near to the door where there is ample leg space without my having to fork out any extra money, my elation quickly turned into despair after I was quickly surrounded by three incessantly crying babies and their useless parents in tow.
 
@@ -40,7 +48,7 @@ Elated at being seated near to the door where there is ample leg space without m
 Never pay extra for the seats at the front; they are usually reserved for parents with babies.
 :::
 
-Needless to say, not an ounce of sleep or peace came my way and, after an excruciating seven-hour ordeal, I was more than happy to bolt out the exit as soon as the plane landed.  I had no desire to relive the ordeal at the immigration line.
+Needless to say, not an ounce of sleep or peace came my way and, after an excruciating seven-hour ordeal, I was more than happy to bolt out the exit as soon as the plane landed.  I had no desire to relive the ordeal at the immigration line.  Did I tell you I hated flying?
 
 It turns out, Malaysia no longer have traditional immigration counters where passports are stamped.  You self-declare a mandatory [MDAC](https://imigresen-online.imi.gov.my/mdac/main) before you arrive and scan your passport at the gate and that is it.  You are free to go.  Of course, for some countries, the full KY jelly and rubber glove treatment still applies.
 
@@ -66,7 +74,7 @@ Like all airports, Kuala Lumpur International Airport (KLIA) is quite a way away
 
 Being a backpacker, I was never going to take the taxi option.  I had wanted to take the bus, but, after 14 hours on an aeroplane, cramped like sardines in a can (at first) and devoid of any sleep (second), I decided to take the KL Ekspress direct to KL Sentral.
 
-Arriving at KL Sentral, the immediate area surrounding the train station is not pedestrian friendly.  With a spaghetti mess of mutiple-lane carriageways snaking around multiple train stations close by, it was a mare trying to navigate my way out north.  It was hot (26 °C), it was humid, and the air felt stale, but the life of a backpacker is to see the world and so I was never going to call a taxi.  I ploughed on ahead on foot.
+Arriving at KL Sentral, the immediate area surrounding the train station is not pedestrian friendly.  With a spaghetti mess of mutiple-lane carriageways snaking around multiple train stations close by, it was a mare trying to navigate my way out north.  It was hot (28 °C), it was humid, and the air felt stale, but the life of a backpacker is to see the world and so I was never going to call a taxi.  I ploughed on ahead on foot.
 
 Though I was tired, it was still too early to check into my hotel.  I needed to slow down.  I visited the [National Mosque of Malaysia](https://maps.app.goo.gl/AkV17uJaDCHmJPmf7), [Independence Square](https://maps.app.goo.gl/mJsomsqU1zDb7CSw7), the [National Textiles Museum](https://maps.app.goo.gl/JpFp1p2vNyqz4Xpd9), and the beautiful [Sultan Abdul Samad Building](https://maps.app.goo.gl/WKJkyTh9vzNC3bDLA).
 
@@ -87,7 +95,7 @@ On top of being sleep-deprived, I was now hungry and sweating profusely.  Blunde
 
 The food was nice and it hit the spot, but more than anything it was served with love.  The boy sat with me and talked about how today was the [Pongol](https://en.wikipedia.org/wiki/Pongal_(festival)) festival back home and how he dearly missed not being there with his family.  He came to Malaysia to earn money, given the lack of opportunities in his home country.
 
-Stepping out of the restaurant's cool beguiling air and into the outside heat, it struck me again just how hot Malaysia is.  Of course, I knew this beforehand.  *It's January* I thought; *it should be a little cooler*, right? 
+Stepping out of the restaurant's cool beguiling air and into the outside heat, it struck me again just how hot Malaysia is.  Of course, I knew this beforehand.  *It's January*, I thought; *it should be a little cooler*, right?
 
 ## Climate
 
@@ -95,7 +103,7 @@ Why so hot?
 
 There are many facets to climate, but the ones I care about most right now are *temperature* and *humidity*.
 
-There is an `R` package called [{riem}](https://github.com/ropensci/riem) that allows you to get hold of weather data from Automated Surface Observing Systems (ASOS).  These are weather stations found in airports all aound the world, many of which have been collecting data for more than 50 years.  The Kuala Lumpur International Airport (KLIA) dataset stretches back to 1949, but limiting myself to 2010 it looks like Kuala Lumpur's temperature hovers aound 28 °C $\pm$ 2 °C, while relative humidity hovers around 80% all year round.  It is not uncommon for several days in a month to reach 100% relative humidity.
+There is an `R` package called [{riem}](https://github.com/ropensci/riem) that allows you to get hold of weather data from Automated Surface Observing Systems (ASOS).  These are weather stations found in airports all aound the world, many of which have been collecting data for more than 50 years.  The KLIA dataset stretches back to 1949, but limiting myself to 2010 it looks like Kuala Lumpur's temperature hovers aound 28 °C $\pm$ 2 °C, while relative humidity hovers around 80% all year round.  It is not uncommon for several days in a month to reach 100% relative humidity.
 
 ::: {#fig-climate layout-ncol=1}
 
@@ -109,3 +117,42 @@ Climate in Kuala Lumpur.[^1]
 [^1]: At some point, I hope to write an article on how to use the {riem} package in `R` to make plots like this.
 
 Insofar as temperature and relative humidity are concerned, Kuala Lumpur is quite monoclimatic year-round.  At 80% relative humidity, no wonder you feel so hot: with the air already saturated with water, it is difficult for your sweat to evaporate and transfer the thermal energy into the surroundings.
+
+## Receipt
+
+Here is a breakdown of the cost of getting to Kuala Lumpur.
+
+```{r}
+#| eval: true
+
+# Create dataframe
+df_cost <- tibble::tribble(
+  ~"Item",                                    ~"Cost in GBP",
+  "Flight ticket to KLIA",                    445.63,
+  "Train ticket to Woodstock, Singapore",     1,
+  "Train ticket from KLIA to KL Sentral",     10
+)
+
+# Create total
+df_cost <- df_cost |>
+  janitor::adorn_totals(where = "row")
+
+# Create table
+tbl <- df_cost |>
+  gt::gt() |>
+  gt::opt_row_striping() |>
+  gt::tab_options(table.align = "left") |>
+  gt::tab_options(table.font.names = "Verdana Pro") |>
+  gt::tab_footnote(
+    footnote = "For proof of onward travel.",
+    locations = gt::cells_body(columns = Item, rows = 2)
+  )
+
+tbl
+```
+
+## The future
+
+I want to explore the various quarters around Kuala Lumpur and what the city has to offer.  My next port of call will probably be [Malacca](https://maps.app.goo.gl/7nYdHKze1PXohFcy7) and then further south towards Singapore, given that I now have a ticket!
+
+Keep a look out for my next post.
