@@ -23,6 +23,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -75,6 +109,8 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script type="module" src="../../site_libs/quarto-ojs/quarto-ojs-runtime.js"></script>
+<link href="../../site_libs/quarto-ojs/quarto-ojs.css" rel="stylesheet">
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -214,7 +250,7 @@ window.Quarto = {
   </ul></li>
   <li><a href="#kuala-lumpur" id="toc-kuala-lumpur" class="nav-link" data-scroll-target="#kuala-lumpur">Kuala Lumpur</a></li>
   <li><a href="#climate" id="toc-climate" class="nav-link" data-scroll-target="#climate">Climate</a></li>
-  <li><a href="#receipt" id="toc-receipt" class="nav-link" data-scroll-target="#receipt">Receipt</a></li>
+  <li><a href="#costs" id="toc-costs" class="nav-link" data-scroll-target="#costs">Costs</a></li>
   <li><a href="#the-future" id="toc-the-future" class="nav-link" data-scroll-target="#the-future">The future</a></li>
   </ul>
 </nav>
@@ -388,28 +424,28 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
 </div>
 <p>Insofar as temperature and relative humidity are concerned, Kuala Lumpur is quite monoclimatic year-round. At 80% relative humidity, no wonder you feel so hot: with the air already saturated with water, it is difficult for your sweat to evaporate and transfer the thermal energy into the surroundings.</p>
 </section>
-<section id="receipt" class="level2">
-<h2 class="anchored" data-anchor-id="receipt">Receipt</h2>
+<section id="costs" class="level2">
+<h2 class="anchored" data-anchor-id="costs">Costs</h2>
 <p>Here is a breakdown of the cost of getting to Kuala Lumpur.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div id="fzdgffbabj" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#fzdgffbabj table {
+<div id="ahquiwpyma" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#ahquiwpyma table {
   font-family: 'Verdana Pro';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#fzdgffbabj thead, #fzdgffbabj tbody, #fzdgffbabj tfoot, #fzdgffbabj tr, #fzdgffbabj td, #fzdgffbabj th {
+#ahquiwpyma thead, #ahquiwpyma tbody, #ahquiwpyma tfoot, #ahquiwpyma tr, #ahquiwpyma td, #ahquiwpyma th {
   border-style: none;
 }
 
-#fzdgffbabj p {
+#ahquiwpyma p {
   margin: 0;
   padding: 0;
 }
 
-#fzdgffbabj .gt_table {
+#ahquiwpyma .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -435,12 +471,12 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   border-left-color: #D3D3D3;
 }
 
-#fzdgffbabj .gt_caption {
+#ahquiwpyma .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#fzdgffbabj .gt_title {
+#ahquiwpyma .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -452,7 +488,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   border-bottom-width: 0;
 }
 
-#fzdgffbabj .gt_subtitle {
+#ahquiwpyma .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -464,7 +500,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   border-top-width: 0;
 }
 
-#fzdgffbabj .gt_heading {
+#ahquiwpyma .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -476,13 +512,13 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   border-right-color: #D3D3D3;
 }
 
-#fzdgffbabj .gt_bottom_border {
+#ahquiwpyma .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#fzdgffbabj .gt_col_headings {
+#ahquiwpyma .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -497,7 +533,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   border-right-color: #D3D3D3;
 }
 
-#fzdgffbabj .gt_col_heading {
+#ahquiwpyma .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -517,7 +553,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   overflow-x: hidden;
 }
 
-#fzdgffbabj .gt_column_spanner_outer {
+#ahquiwpyma .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -529,15 +565,15 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   padding-right: 4px;
 }
 
-#fzdgffbabj .gt_column_spanner_outer:first-child {
+#ahquiwpyma .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#fzdgffbabj .gt_column_spanner_outer:last-child {
+#ahquiwpyma .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#fzdgffbabj .gt_column_spanner {
+#ahquiwpyma .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -549,11 +585,11 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   width: 100%;
 }
 
-#fzdgffbabj .gt_spanner_row {
+#ahquiwpyma .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#fzdgffbabj .gt_group_heading {
+#ahquiwpyma .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -579,7 +615,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   text-align: left;
 }
 
-#fzdgffbabj .gt_empty_group_heading {
+#ahquiwpyma .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -594,15 +630,15 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   vertical-align: middle;
 }
 
-#fzdgffbabj .gt_from_md > :first-child {
+#ahquiwpyma .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#fzdgffbabj .gt_from_md > :last-child {
+#ahquiwpyma .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#fzdgffbabj .gt_row {
+#ahquiwpyma .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -621,7 +657,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   overflow-x: hidden;
 }
 
-#fzdgffbabj .gt_stub {
+#ahquiwpyma .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -634,7 +670,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   padding-right: 5px;
 }
 
-#fzdgffbabj .gt_stub_row_group {
+#ahquiwpyma .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -648,15 +684,15 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   vertical-align: top;
 }
 
-#fzdgffbabj .gt_row_group_first td {
+#ahquiwpyma .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#fzdgffbabj .gt_row_group_first th {
+#ahquiwpyma .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#fzdgffbabj .gt_summary_row {
+#ahquiwpyma .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -666,16 +702,16 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   padding-right: 5px;
 }
 
-#fzdgffbabj .gt_first_summary_row {
+#ahquiwpyma .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#fzdgffbabj .gt_first_summary_row.thick {
+#ahquiwpyma .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#fzdgffbabj .gt_last_summary_row {
+#ahquiwpyma .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -685,7 +721,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   border-bottom-color: #D3D3D3;
 }
 
-#fzdgffbabj .gt_grand_summary_row {
+#ahquiwpyma .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -695,7 +731,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   padding-right: 5px;
 }
 
-#fzdgffbabj .gt_first_grand_summary_row {
+#ahquiwpyma .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -705,7 +741,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   border-top-color: #D3D3D3;
 }
 
-#fzdgffbabj .gt_last_grand_summary_row_top {
+#ahquiwpyma .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -715,11 +751,11 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   border-bottom-color: #D3D3D3;
 }
 
-#fzdgffbabj .gt_striped {
+#ahquiwpyma .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#fzdgffbabj .gt_table_body {
+#ahquiwpyma .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -728,7 +764,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   border-bottom-color: #D3D3D3;
 }
 
-#fzdgffbabj .gt_footnotes {
+#ahquiwpyma .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -742,7 +778,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   border-right-color: #D3D3D3;
 }
 
-#fzdgffbabj .gt_footnote {
+#ahquiwpyma .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -751,7 +787,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   padding-right: 5px;
 }
 
-#fzdgffbabj .gt_sourcenotes {
+#ahquiwpyma .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -765,7 +801,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   border-right-color: #D3D3D3;
 }
 
-#fzdgffbabj .gt_sourcenote {
+#ahquiwpyma .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -773,63 +809,63 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
   padding-right: 5px;
 }
 
-#fzdgffbabj .gt_left {
+#ahquiwpyma .gt_left {
   text-align: left;
 }
 
-#fzdgffbabj .gt_center {
+#ahquiwpyma .gt_center {
   text-align: center;
 }
 
-#fzdgffbabj .gt_right {
+#ahquiwpyma .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#fzdgffbabj .gt_font_normal {
+#ahquiwpyma .gt_font_normal {
   font-weight: normal;
 }
 
-#fzdgffbabj .gt_font_bold {
+#ahquiwpyma .gt_font_bold {
   font-weight: bold;
 }
 
-#fzdgffbabj .gt_font_italic {
+#ahquiwpyma .gt_font_italic {
   font-style: italic;
 }
 
-#fzdgffbabj .gt_super {
+#ahquiwpyma .gt_super {
   font-size: 65%;
 }
 
-#fzdgffbabj .gt_footnote_marks {
+#ahquiwpyma .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#fzdgffbabj .gt_asterisk {
+#ahquiwpyma .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#fzdgffbabj .gt_indent_1 {
+#ahquiwpyma .gt_indent_1 {
   text-indent: 5px;
 }
 
-#fzdgffbabj .gt_indent_2 {
+#ahquiwpyma .gt_indent_2 {
   text-indent: 10px;
 }
 
-#fzdgffbabj .gt_indent_3 {
+#ahquiwpyma .gt_indent_3 {
   text-indent: 15px;
 }
 
-#fzdgffbabj .gt_indent_4 {
+#ahquiwpyma .gt_indent_4 {
   text-indent: 20px;
 }
 
-#fzdgffbabj .gt_indent_5 {
+#ahquiwpyma .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
@@ -869,6 +905,37 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
 </div>
 </div>
 </div>
+<p>If it helps, here is a quick currency converter. At the time of this article, 1 GBP was worth 5.5 MYR. You will never get the advertised rate, because of all sorts of fees, but I was averaging 5.4 MYR.</p>
+<div class="panel-grid layout-sidebar ms-md-0 layout-sidebar-left">
+<div class="cell panel-sidebar card bg-light p-2 g-col-24 g-col-lg-7" data-eval="true">
+<div class="sourceCode cell-code hidden" id="cb1" data-startfrom="161" data-source-offset="-1"><pre class="sourceCode js code-with-copy"><code class="sourceCode javascript" style="counter-reset: source-line 160;"><span id="cb1-161"><a href="#cb1-161" aria-hidden="true" tabindex="-1"></a>viewof money_home <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">number</span>(</span>
+<span id="cb1-162"><a href="#cb1-162" aria-hidden="true" tabindex="-1"></a>  [<span class="dv">0</span><span class="op">,</span> <span class="kw">Infinity</span>]<span class="op">,</span> </span>
+<span id="cb1-163"><a href="#cb1-163" aria-hidden="true" tabindex="-1"></a>  {<span class="dt">value</span><span class="op">:</span> <span class="dv">1</span><span class="op">,</span> <span class="dt">step</span><span class="op">:</span> <span class="dv">1</span><span class="op">,</span> <span class="dt">label</span><span class="op">:</span> <span class="st">"Home currency"</span><span class="op">,</span> <span class="dt">placeholder</span><span class="op">:</span> <span class="st">"Amount"</span>}</span>
+<span id="cb1-164"><a href="#cb1-164" aria-hidden="true" tabindex="-1"></a>)</span>
+<span id="cb1-165"><a href="#cb1-165" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-166"><a href="#cb1-166" aria-hidden="true" tabindex="-1"></a>viewof rate_conversion <span class="op">=</span> Inputs<span class="op">.</span><span class="fu">number</span>(</span>
+<span id="cb1-167"><a href="#cb1-167" aria-hidden="true" tabindex="-1"></a>  [<span class="dv">0</span><span class="op">,</span> <span class="kw">Infinity</span>]<span class="op">,</span> </span>
+<span id="cb1-168"><a href="#cb1-168" aria-hidden="true" tabindex="-1"></a>  {<span class="dt">value</span><span class="op">:</span> <span class="fl">5.4</span><span class="op">,</span> <span class="dt">step</span><span class="op">:</span> <span class="fl">0.1</span><span class="op">,</span> <span class="dt">label</span><span class="op">:</span> <span class="st">"Conversion rate"</span><span class="op">,</span> <span class="dt">placeholder</span><span class="op">:</span> <span class="st">""</span>}</span>
+<span id="cb1-169"><a href="#cb1-169" aria-hidden="true" tabindex="-1"></a>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-1-1" data-nodetype="declaration">
+
+</div>
+</div>
+</div>
+<div class="cell-output cell-output-display">
+<div>
+<div id="ojs-cell-1-2" data-nodetype="declaration">
+
+</div>
+</div>
+</div>
+</div>
+<div class="panel-fill g-col-24 g-col-lg-17 pt-3 pt-lg-0">
+<p>The numbers you typed in gets you <strong><span><span id="ojs-element-id-1"></span></span> MYR</strong>.</p>
+</div>
+</div>
 </section>
 <section id="the-future" class="level2">
 <h2 class="anchored" data-anchor-id="the-future">The future</h2>
@@ -876,6 +943,11 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
 <p>Keep a look out for my next post.</p>
 
 
+<div class="ojs-auto-generated hidden">
+<script type="ojs-module-contents">
+eyJjb250ZW50cyI6WyAgeyJtZXRob2ROYW1lIjoiaW50ZXJwcmV0IiwiaW5saW5lIjoidHJ1ZSIsInNvdXJjZSI6Imh0bC5odG1sYDxzcGFuPiR7bW9uZXlfaG9tZSAqIHJhdGVfY29udmVyc2lvbn08L3NwYW4+YCIsICJjZWxsTmFtZSI6Im9qcy1lbGVtZW50LWlkLTEifV19
+</script>
+</div>
 </section>
 
 
@@ -895,6 +967,17 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<a href="#fn1" class="footnote-ref" id="f
 Chowdhury, Afsar. 2025. <span>“Where the Two Rivers Meet.”</span>
 January 19, 2025. <a href="https://afsarchowdhury.github.io/posts/2025-01-19-malaysia-kl/malaysia-kl.html">https://afsarchowdhury.github.io/posts/2025-01-19-malaysia-kl/malaysia-kl.html</a>.
 </div></div></section></div></main> <!-- /main -->
+<script type="ojs-module-contents">
+eyJjb250ZW50cyI6W3sibWV0aG9kTmFtZSI6ImludGVycHJldCIsImNlbGxOYW1lIjoib2pzLWNlbGwtMSIsImlubGluZSI6ZmFsc2UsInNvdXJjZSI6Ilxudmlld29mIG1vbmV5X2hvbWUgPSBJbnB1dHMubnVtYmVyKFxuICBbMCwgSW5maW5pdHldLCBcbiAge3ZhbHVlOiAxLCBzdGVwOiAxLCBsYWJlbDogXCJIb21lIGN1cnJlbmN5XCIsIHBsYWNlaG9sZGVyOiBcIkFtb3VudFwifVxuKVxuXG52aWV3b2YgcmF0ZV9jb252ZXJzaW9uID0gSW5wdXRzLm51bWJlcihcbiAgWzAsIEluZmluaXR5XSwgXG4gIHt2YWx1ZTogNS40LCBzdGVwOiAwLjEsIGxhYmVsOiBcIkNvbnZlcnNpb24gcmF0ZVwiLCBwbGFjZWhvbGRlcjogXCJcIn1cbilcbiJ9LHsibWV0aG9kTmFtZSI6ImludGVycHJldFF1aWV0Iiwic291cmNlIjoic2hpbnlJbnB1dCgnbW9uZXlfaG9tZScpIn0seyJtZXRob2ROYW1lIjoiaW50ZXJwcmV0UXVpZXQiLCJzb3VyY2UiOiJzaGlueUlucHV0KCdyYXRlX2NvbnZlcnNpb24nKSJ9XX0=
+</script>
+<script type="module">
+if (window.location.protocol === "file:") { alert("The OJS runtime does not work with file:// URLs. Please use a web server to view this document."); }
+window._ojs.paths.runtimeToDoc = "../../posts/2025-01-19-malaysia-kl";
+window._ojs.paths.runtimeToRoot = "../..";
+window._ojs.paths.docToRoot = "../..";
+window._ojs.selfContained = false;
+window._ojs.runtime.interpretFromScriptTags();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

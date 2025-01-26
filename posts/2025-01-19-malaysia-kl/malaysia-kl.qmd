@@ -118,7 +118,7 @@ Climate in Kuala Lumpur.[^1]
 
 Insofar as temperature and relative humidity are concerned, Kuala Lumpur is quite monoclimatic year-round.  At 80% relative humidity, no wonder you feel so hot: with the air already saturated with water, it is difficult for your sweat to evaporate and transfer the thermal energy into the surroundings.
 
-## Receipt
+## Costs
 
 Here is a breakdown of the cost of getting to Kuala Lumpur.
 
@@ -150,6 +150,27 @@ tbl <- df_cost |>
 
 tbl
 ```
+
+If it helps, here is a quick currency converter.  At the time of this article, 1 GBP was worth 5.5 MYR.  You will never get the advertised rate, because of all sorts of fees, but I was averaging 5.4 MYR.
+
+```{ojs}
+//| eval: true
+//| echo: false
+//| panel: sidebar
+
+viewof money_home = Inputs.number(
+  [0, Infinity], 
+  {value: 1, step: 1, label: "Home currency", placeholder: "Amount"}
+)
+
+viewof rate_conversion = Inputs.number(
+  [0, Infinity], 
+  {value: 5.4, step: 0.1, label: "Conversion rate", placeholder: ""}
+)
+```
+
+The numbers you typed in gets you **`{ojs} money_home * rate_conversion` MYR**.
+
 
 ## The future
 

@@ -39,7 +39,7 @@
     "href": "posts/2025-01-19-malaysia-kl/malaysia-kl.html#receipt",
     "title": "Where the two rivers meet",
     "section": "Receipt",
-    "text": "Receipt\nHere is a breakdown of the cost of getting to Kuala Lumpur.\n\n\n\n\n\n\n\n\nItem\nCost in GBP\n\n\n\n\nFlight ticket to KLIA\n445.63\n\n\nTrain ticket to Woodstock, Singapore1\n1.00\n\n\nTrain ticket from KLIA to KL Sentral\n10.00\n\n\nTotal\n456.63\n\n\n\n1 For proof of onward travel."
+    "text": "Receipt\nHere is a breakdown of the cost of getting to Kuala Lumpur.\n\n\n\n\n\n\n\n\nItem\nCost in GBP\n\n\n\n\nFlight ticket to KLIA\n445.63\n\n\nTrain ticket to Woodstock, Singapore1\n1.00\n\n\nTrain ticket from KLIA to KL Sentral\n10.00\n\n\nTotal\n456.63\n\n\n\n1 For proof of onward travel.\n\n\n\n\n\n\n\n\nHere is a quick currency converter.\n\n\nviewof money_home = Inputs.number(\n  [0, Infinity], \n  {value: 1, step: 1, label: \"Home currency\", placeholder: \"Amount\"}\n)\n\nviewof rate_conversion = Inputs.number(\n  [0, Infinity], \n  {value: 5.5, step: 0.1, label: \"Conversion rate\", placeholder: \"\"}\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe numbers you typed in gets you  MYR."
   },
   {
     "objectID": "posts/2025-01-19-malaysia-kl/malaysia-kl.html#the-future",
@@ -75,5 +75,12 @@
     "title": "Welcome",
     "section": "",
     "text": "If you are here, you are probably lost. Of all the places on the internet you could have gone to, and of all the things you could be doing with your life, you are here. You must be a rambler. Maybe not in person, but certainly in mind and in spirit.\n\n\n\n\n\n\nRamble\n\n\n\n/răm′bəl/\nAn intransitive verb.\n\nTo move about aimlessly. Synonym: wander.\n\n\n“He roamed and rambled […] to the sparkling sands of her diamond deserts.”\nThe mind rambled for hours in the labyrinth of roads not taken.\n\n\n\n\n\nHere, you will find my prosaic musings on some of my rambles.\n\n\n\nCitationBibTeX citation:@online{chowdhury2025,\n  author = {Chowdhury, Afsar},\n  title = {Welcome},\n  date = {2025-01-09},\n  url = {https://afsarchowdhury.github.io/posts/2025-01-09-welcome/welcome.html},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nChowdhury, Afsar. 2025. “Welcome.” January 9, 2025. https://afsarchowdhury.github.io/posts/2025-01-09-welcome/welcome.html."
+  },
+  {
+    "objectID": "posts/2025-01-19-malaysia-kl/malaysia-kl.html#costs",
+    "href": "posts/2025-01-19-malaysia-kl/malaysia-kl.html#costs",
+    "title": "Where the two rivers meet",
+    "section": "Costs",
+    "text": "Costs\nHere is a breakdown of the cost of getting to Kuala Lumpur.\n\n\n\n\n\n\n\n\nItem\nCost in GBP\n\n\n\n\nFlight ticket to KLIA\n445.63\n\n\nTrain ticket to Woodstock, Singapore1\n1.00\n\n\nTrain ticket from KLIA to KL Sentral\n10.00\n\n\nTotal\n456.63\n\n\n\n1 For proof of onward travel.\n\n\n\n\n\n\n\n\nIf it helps, here is a quick currency converter. At the time of this article, 1 GBP was worth 5.5 MYR. You will never get the advertised rate, because of all sorts of fees, but I was averaging 5.4 MYR.\n\n\nviewof money_home = Inputs.number(\n  [0, Infinity], \n  {value: 1, step: 1, label: \"Home currency\", placeholder: \"Amount\"}\n)\n\nviewof rate_conversion = Inputs.number(\n  [0, Infinity], \n  {value: 5.4, step: 0.1, label: \"Conversion rate\", placeholder: \"\"}\n)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe numbers you typed in gets you  MYR."
   }
 ]
