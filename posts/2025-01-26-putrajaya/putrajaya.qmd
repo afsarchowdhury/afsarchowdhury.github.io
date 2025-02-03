@@ -1,0 +1,111 @@
+---
+title: "Putrajaya"
+description: |
+  The administritive capital of Malaysia.
+author:
+  - name: Afsar Chowdhury
+citation: true
+categories: [putra square, putrajaya, malaysia]
+date: "2025-01-26"
+execute: 
+  eval: false
+  echo: false
+  message: false
+  warning: false
+  #fig-width: 9
+lightbox: true
+editor_options: 
+  chunk_output_type: console
+draft: false
+---
+
+## Putrajaya, Malaysia
+
+Back in 1999, the Malaysian government decided to move from the centre of Kuala Lumpur to Putrajaya, about 16 miles due south.  Having made my way to Kuala Lumpur, it would have been a shame to not make a quick, cheeky, visit to the new centre of government.
+
+## Getting there
+
+The bus KRTravelT523 leaves hourly from [Hab Lebuh Pudu](https://maps.app.goo.gl/yniGdF6dtqV7aa6D6) bus station and takes about an hour to get straight to the action in [Putra Square](https://maps.app.goo.gl/TSpisiyYCopicNSF6).  It costs 4 MYR (~£0.80 GBP), which is great value for an hour's bus ride.
+
+::: {#fig-hablebuhpudu layout-ncol=2}
+
+![The KRTravelT523 bus at Hab Lebuh Pudu bust station.](bus_krtravelt523_outside.jpg){#fig-busoutside group="hablebuhpudu"}
+
+![Inside the KRTravelT523 bus.](bus_krtravelt523_inside.jpg){#fig-businside group="hablebuhpudu"}
+
+Hab Lebuh Pudu bus station.
+:::
+
+The driver allowed passengers to board at 09:45 and departed exactly on schedule, 10:00.  So, make sure you are on time.
+
+![One-hour bus journey to Putra Square.](map.png){#fig-map fig-align="left" width="50%"}
+
+## Putra Square
+
+I have no idea why they call it a *square*, because it is actually a *circle*.  Maybe, *Putra Circle* does not quite have the same international ring to it as *Putra Square* (Trafalgar Square, Time Square, Tiananmen Square, *etc.*).  In any case, as the bus arrives at Putra Square, you can see that the government mean business: grand structures designed with an infusion of cultures ready to stand the test of time, with a hint of intent, signalling to the world that Malaysia's time has come.
+
+### Prime Minister's office
+
+For obvious reasons, the Prime Minister's office is not accessible to the general public.
+
+::: {#fig-putrasquare layout-ncol=2}
+
+![Putra Square.  Prime Minister's office in the distance.](putra_square.jpg){#fig-putrasquare_01 group="putrasquare"}
+
+![Prime Minister's office, viewed from Putra Masjid.](pm_office.jpg){#fig-putrasquare_02 group="putrasquare"}
+
+Putra Square and the Prime Mininster's office.
+:::
+
+### Putra Masjid
+
+The Putra Masjid sits adjacent to the Prime Minister's office.  It was constructed in 1999 with rose-tinted granite on the banks of the Putrajaya Lake.
+
+::: {#fig-pinkmosque layout-ncol=2}
+
+![Putra Masjid.](pink_mosque_01.jpg){#fig-pinkmosque01 group="pinkmosque"}
+
+![Putra Masjid, viewed from Putra Square.](pink_mosque_02.jpg){#fig-pinkmosque02 group="pinkmosque"}
+
+![Flower gardens on the perimeter of Putra Masjid.](pink_mosque_03.jpg){#fig-pinkmosque03 group="pinkmosque"}
+
+![The Qur'an in Putra Masjid.](pink_mosque_04.jpg){#fig-pinkmosque04 group="pinkmosque" .preview-image}
+
+The Putra Masjid in Putra Square.
+:::
+
+## Other activities
+
+Once you have had a wander around the square, the mosque, the artisan stalls, shopping mall, you can take a boat ride on the 650-hectare lake.
+
+## Costs
+
+Here is a breakdown of the cost of getting to Putra Square.
+
+```{r}
+#| eval: true
+
+# Create dataframe
+df_cost <- tibble::tribble(
+  ~"Item",                                    ~"Cost in MYR",
+  "Bus ticket to Putra Square",               4,
+  "Bus ticket from Putra Square",             4
+)
+
+# Create total
+df_cost <- df_cost |>
+  janitor::adorn_totals(where = "row")
+
+my_cost_total <- df_cost[[nrow(df_cost), ncol(df_cost)]]
+
+# Create table
+tbl <- df_cost |>
+  gt::gt() |>
+  gt::opt_row_striping() |>
+  gt::tab_options(table.align = "left") |>
+  gt::tab_options(table.font.names = "Verdana Pro")
+
+tbl
+```
+
+A sum total of `{r} my_cost_total` MYR to get there and back.  At a conversion ratio of 1:5.4 GBP:MYR, that works out to be £`{r} round(my_cost_total / 5.4, 2)`.
