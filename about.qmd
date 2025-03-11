@@ -1,5 +1,5 @@
 ---
-title: "Musings of a rambleR"
+title: "The lost chapters"
 image: "images/rzf.gif"
 about:
   template: jolla
@@ -12,4 +12,4 @@ about:
       href: "mailto:afsarchowdhury@proton.me"
 ---
 
-I `R`; therefore, I am.
+I roamed and rambled; I followed my footsteps.

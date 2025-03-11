@@ -59,7 +59,7 @@ Putra Square and the Prime Mininster's office.
 
 ### Putra Masjid
 
-The Putra Masjid sits adjacent to the Prime Minister's office.  It was constructed in 1999 with rose-tinted granite on the banks of the Putrajaya Lake.
+The Putra Masjid sits adjacent to the Prime Minister's office.  It was constructed in 1999 with rose-tinted granite on the banks of the [Putrajaya Lake](https://en.wikipedia.org/wiki/Putrajaya_Lake), a 650-hectare man-made colossal cooling system.
 
 ::: {#fig-pinkmosque layout-ncol=2}
 
@@ -76,11 +76,11 @@ The Putra Masjid in Putra Square.
 
 ## Other activities
 
-Once you have had a wander around the square, the mosque, the artisan stalls, shopping mall, you can take a boat ride on the 650-hectare lake.
+Once you have had a wander around the square, the mosque, the artisan stalls, shopping mall, you can take a boat ride on the lake, from where the mosque appears to float on water.
 
 ## Costs
 
-Here is a breakdown of the cost of getting to Putra Square.
+Here is a breakdown of the cost of the trip.
 
 ```{r}
 #| eval: true

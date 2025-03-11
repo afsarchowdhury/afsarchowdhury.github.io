@@ -1,0 +1,122 @@
+---
+title: "Malacca"
+description: |
+  A legacy of European conquests.
+author:
+  - name: Afsar Chowdhury
+citation: true
+categories: [malacca, malaysia]
+date: "2025-02-07"
+execute: 
+  eval: false
+  echo: false
+  message: false
+  warning: false
+  #fig-width: 9
+lightbox: true
+editor_options: 
+  chunk_output_type: console
+draft: false
+---
+
+## Malacca, Malaysia
+
+Malacca (spelled Melaka in Malaysia) is a state off the shores of the Melacca Strait.  The city, Malacca City, has been a UNESCO [World Heritage Site](https://en.wikipedia.org/wiki/World_Heritage_Site) since 2008.  Occupied by the [Portugese in 1511](https://en.wikipedia.org/wiki/Capture_of_Malacca_(1511)), the [Dutch in 1641](https://en.wikipedia.org/wiki/Dutch_Malacca), and then the [British in 1824](https://en.wikipedia.org/wiki/Anglo-Dutch_Treaty_of_1824), it is a diverse melting pot of cultures.  I was never going to pass up on the opportunity to visit Malacca.
+
+![Christ Church Melaka at the Dutch Red Square.  A historic, red-painted Protestant church with a bell tower.](img_melaka_church_01.jpg){#fig-church01}
+
+## Getting there
+
+Being an overland backpacker, flying was out of the question.  There is no rail line connecting Kuala Lumpur to Malacca --- at least not one that I am aware of --- which means coach it is.
+
+### 1: Kuala Lumpur City to Terminal Bersepadu Selatan
+
+My first task was to make my way to the [Terminal Bersepadu Selatan (TBS)](https://maps.app.goo.gl/P7qjBsYExe5cvmTC7) bus station.  This is a ginormous bus station that has coaches leaving to all corners of the East Malaysian peninsula, including to Singapore (and possibly to Thailand).
+
+With time on my hands and luxury the least of my concerns, I hopped on the light rail at [Plaza Rakyat](https://maps.app.goo.gl/AbxkuYBNKAJ1UHmq7) nearest my hotel and rode seven stops to [Bandar Tasik Selatan](https://maps.app.goo.gl/8ngRVwXh3FhDRzcr9) for 3 MYR --- the ticket was actually 2.90 MYR, but the ticket machines do not accept cards and do not dispense change; so, I was robbed of 0.10 MYR (~£0.02)!
+
+Bandar Tasik Selatan is connected to the TBS by a [bridge](https://maps.app.goo.gl/vnP5F75RzA7Fp4Ur9).  There was no need to leave the station.
+
+### 2. TBS to Melaka Sentral
+
+At the counter, I bought the 11:45 to [Melaka Sentral](https://maps.app.goo.gl/9cXQksdB6BWyscq56), operated by Melor Interline, for 12 MYR.  Delayed by 15 minutes, the coach was mostly empty and spacious and the journey itself was a straight forward two hours.
+
+::: {#fig-tbs layout-ncol=2}
+
+![Ticket to Malacca.](img_ticket_tbs-malacca.jpg){#fig-ticket-tbs-malacca group="tbs"}
+
+![Coach from TBS to Malacca mostly empty.](img_coach.jpg){#fig-coach group="tbs"}
+
+Terminal Bersepadu Selatan.
+:::
+
+### 3. Melaka Sentral to Melaka City
+
+Arriving at Melaka Sentral gives you the first indication that all is not well in Malacca: a moderately-sized bus station haunted by bleak and derelict shop units that hark back to past fortunes.  The information desk looked like it was abandoned long ago, but after some walking around and asking it turned out that intercity coaches terminated at one end of the station, while local buses terminated at the opposite end.
+
+A taxi to the city centre was just shy of 10 MYR, but I wanted to travel like a local.  At the local end of the station, the bus at bay 16 took me through the city centre at a cost 1.40 MYR and about 45 minutes (actually, it cost me 5 MYR, because the bus does not give change.  Robbed again of 3.60 MYR, ~£0.72!).
+
+::: {#fig-msentral layout-ncol=2}
+
+![Local bus bay 16 took me to Mahkota Parade in the city centre.](img_melaka_sentral_01.jpg){#fig-melaka_sentral_01 group="msentral"}
+
+![Ticket from Melaka Sentral to Mahkota Parade.](img_melaka_sentral_02.jpg){#fig-melaka_sentral_02 group="msentral"}
+
+Melaka Sentral.
+:::
+
+## Map
+
+![Two-hour bus journey from Kuala Lumpur to Melacca.](map.png){#fig-map fig-align="left" width="50%"}
+
+## My thoughts
+
+The historical areas of Malacca are brimming with life, supported by an army of tourists.  [The Red Square](https://maps.app.goo.gl/NXUihmXNPTLZW8UGA) (@fig-church01) --- a historic square from the Dutch colonial era, featuring red-brick buildings --- is quite nice, tacky trinkets notwithstanding.
+
+The Melacca mMosque is quite simply breathtaking.
+
+::: {#fig-masjid layout-ncol=2}
+
+![Approaching the Masjid Selat Melaka.](img_melaka_masjid_01.jpg){#fig-masjid01 group="masjid"}
+
+![Masjid Selat Melaka on the Malacca Strait.](img_melaka_masjid_02.jpg){#fig-masjid02 group="masjid"}
+
+![Inside the Masjid Selat Melaka.](img_melaka_masjid_03.jpg){#fig-masjid03 group="masjid"}
+
+![Inside the Masjid Selat Melaka.](img_melaka_masjid_04.jpg){#fig-masjid04 group="masjid"}
+
+Masjid Selat Melaka
+:::
+
+If you venture out of the tourist hotspots, you will find that Malacca city never recovered from covid.  Certain areas are completely mothballed, with ambitious development projects stopped and livelihoods destroyed. Walking into some of these desolate places is like a dystopian nightmare following a nuclear holocaust.
+
+![An abandoned housing estate.](img_melaka_dystopia_01.jpg){#fig-dystopia01}
+
+## Costs
+
+Here is a breakdown of the cost of getting to Malacca City.
+
+```{r}
+#| eval: true
+
+# Create dataframe
+df_cost <- tibble::tribble(
+  ~"Item",                                                ~"Cost in MYR",
+  "Light rail ticket to Bandar Tasik Selatan",            3,
+  "Coach ticket from TBS to Melaka Sentral",              12,
+  "Bus ticket from Melaka Sentral to Mahkota Parade",     5
+)
+
+# Create total
+df_cost <- df_cost |>
+  janitor::adorn_totals(where = "row")
+
+# Create table
+tbl <- df_cost |>
+  gt::gt() |>
+  gt::opt_row_striping() |>
+  gt::tab_options(table.align = "left") |>
+  gt::tab_options(table.font.names = "Verdana Pro")
+
+tbl
+```

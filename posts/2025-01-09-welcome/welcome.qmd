@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 description: |
-  Welcome to the musings of a rambler.
+  Welcome to the lost chapters.
 author:
   - name: Afsar Chowdhury
 citation: true
@@ -9,19 +9,8 @@ date: "2025-01-09"
 categories: [welcome]
 ---
 
-If you are here, you are probably lost.  Of all the places on the internet you could have gone to, and of all the things you could be doing with your life, you are here.  You must be a rambler.  Maybe not in person, but certainly in mind and in spirit.
+I chased the latent echoes of my heart that lingered beyond campfire stories.  I "roamed and rambled [...] to the sparkling sands of her diamond deserts".
 
-::: {.callout-note icon=false}
-## Ramble
+Welcome.  Here, you will find prosaic musings of my *lost chapters*.
 
-/răm′bəl/
-
-An intransitive verb.
-
-* To move about aimlessly.  Synonym: wander.
-
-   > - "He roamed and rambled [...] to the sparkling sands of her diamond deserts."
-   > - The mind rambled for hours in the labyrinth of roads not taken.
-:::
-
-Here, you will find my prosaic musings on some of my rambles.
+![Dancing dust motes in the piercing sunlight uncovering the lost chapters.](img_welcome_tlc.jpg){#fig-tlc}
