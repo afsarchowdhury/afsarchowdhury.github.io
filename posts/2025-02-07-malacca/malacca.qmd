@@ -73,7 +73,7 @@ Melaka Sentral.
 
 The historical areas of Malacca are brimming with life, supported by an army of tourists.  [The Red Square](https://maps.app.goo.gl/NXUihmXNPTLZW8UGA) (@fig-church01) --- a historic square from the Dutch colonial era, featuring red-brick buildings --- is quite nice, tacky trinkets notwithstanding.
 
-The Melacca mMosque is quite simply breathtaking.
+The Melacca Mosque is quite simply breathtaking.
 
 ::: {#fig-masjid layout-ncol=2}
 
@@ -88,7 +88,7 @@ The Melacca mMosque is quite simply breathtaking.
 Masjid Selat Melaka
 :::
 
-If you venture out of the tourist hotspots, you will find that Malacca city never recovered from covid.  Certain areas are completely mothballed, with ambitious development projects stopped and livelihoods destroyed. Walking into some of these desolate places is like a dystopian nightmare following a nuclear holocaust.
+If you venture out of the tourist hotspots, you will find that Malacca city never recovered from covid.  Certain areas are completely mothballed, with ambitious development projects stopped and livelihoods destroyed. Walking into some of these desolate places is like a dystopian nightmare.
 
 ![An abandoned housing estate.](img_melaka_dystopia_01.jpg){#fig-dystopia01}
 
