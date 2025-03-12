@@ -1,7 +1,7 @@
 ---
 title: "Welcome"
 description: |
-  Welcome to the lost chapters.
+  The lost chapters.
 author:
   - name: Afsar Chowdhury
 citation: true
@@ -9,8 +9,8 @@ date: "2025-01-09"
 categories: [welcome]
 ---
 
-I chased the latent echoes of my heart that lingered beyond campfire stories.  I "roamed and rambled [...] to the sparkling sands of her diamond deserts".
+I chased the latent echoes of my heart that lingered beyond campfire stories.  Echoes of stories untold and chapters unseen.
 
-Welcome.  Here, you will find prosaic musings of my *lost chapters*.
+Here, you will find prosaic musings of my *lost chapters*.
 
-![Dancing dust motes in the piercing sunlight uncovering the lost chapters.](img_welcome_tlc.jpg){#fig-tlc}
+![Dancing dust motes in the piercing sunlight, uncovering the lost chapters.](img_welcome_tlc.jpg){#fig-tlc}

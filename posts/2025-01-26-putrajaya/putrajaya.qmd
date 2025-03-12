@@ -1,7 +1,7 @@
 ---
-title: "Putrajaya"
+title: "Squaring the circle"
 description: |
-  The administritive capital of Malaysia.
+  Putrajaya, the administritive capital of Malaysia.
 author:
   - name: Afsar Chowdhury
 citation: true
@@ -42,7 +42,7 @@ The driver allowed passengers to board at 09:45 and departed exactly on schedule
 
 ## Putra Square
 
-I have no idea why they call it a *square*, because it is actually a *circle*.  Maybe, *Putra Circle* does not quite have the same international ring to it as *Putra Square* (Trafalgar Square, Time Square, Tiananmen Square, *etc.*).  In any case, as the bus arrives at Putra Square, you can see that the government mean business: grand structures designed with an infusion of cultures ready to stand the test of time, with a hint of intent, signalling to the world that Malaysia's time has come.
+As with all city "squares" out there, I have no idea why they call it a *square*, because it is actually a *circle*.  In any case, as the bus arrives at Putra Square, you can see that the government mean business: grand structures designed with an infusion of cultures ready to stand the test of time, with a hint of intent, signalling to the world that Malaysia's time has come.
 
 ### Prime Minister's office
 

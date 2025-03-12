@@ -12,7 +12,7 @@
 <generator>quarto-1.6.42</generator>
 <lastBuildDate>Thu, 06 Feb 2025 18:00:00 GMT</lastBuildDate>
 <item>
-  <title>Malacca</title>
+  <title>A legacy of conquests</title>
   <dc:creator>Afsar Chowdhury</dc:creator>
   <link>https://afsarchowdhury.github.io/posts/2025-02-07-malacca/malacca.html</link>
   <description><![CDATA[ 
@@ -39,7 +39,7 @@ Figure&nbsp;1: Christ Church Melaka at the Dutch Red Square. A historic, red-pai
 <h2 class="anchored" data-anchor-id="getting-there">Getting there</h2>
 <p>Being an overland backpacker, flying was out of the question. There is no rail line connecting Kuala Lumpur to Malacca — at least not one that I am aware of — which means coach it is.</p>
 <section id="kuala-lumpur-city-to-terminal-bersepadu-selatan" class="level3">
-<h3 class="anchored" data-anchor-id="kuala-lumpur-city-to-terminal-bersepadu-selatan">1: Kuala Lumpur City to Terminal Bersepadu Selatan</h3>
+<h3 class="anchored" data-anchor-id="kuala-lumpur-city-to-terminal-bersepadu-selatan">1. Kuala Lumpur City to Terminal Bersepadu Selatan</h3>
 <p>My first task was to make my way to the <a href="https://maps.app.goo.gl/P7qjBsYExe5cvmTC7">Terminal Bersepadu Selatan (TBS)</a> bus station. This is a ginormous bus station that has coaches leaving to all corners of the East Malaysian peninsula, including to Singapore (and possibly to Thailand).</p>
 <p>With time on my hands and luxury the least of my concerns, I hopped on the light rail at <a href="https://maps.app.goo.gl/AbxkuYBNKAJ1UHmq7">Plaza Rakyat</a> nearest my hotel and rode seven stops to <a href="https://maps.app.goo.gl/8ngRVwXh3FhDRzcr9">Bandar Tasik Selatan</a> for 3 MYR — the ticket was actually 2.90 MYR, but the ticket machines do not accept cards and do not dispense change; so, I was robbed of 0.10 MYR (~£0.02)!</p>
 <p>Bandar Tasik Selatan is connected to the TBS by a <a href="https://maps.app.goo.gl/vnP5F75RzA7Fp4Ur9">bridge</a>. There was no need to leave the station.</p>
@@ -158,10 +158,10 @@ Figure&nbsp;4: Two-hour bus journey from Kuala Lumpur to Melacca.
 </div>
 </div>
 <div class="quarto-layout-cell-subref quarto-layout-cell" data-ref-parent="fig-masjid" style="flex-basis: 50.0%;justify-content: flex-start;">
-<div id="fig-masjid02" class="quarto-float quarto-figure quarto-figure-center anchored" data-group="masjid">
+<div id="fig-masjid02" class="preview-image quarto-float quarto-figure quarto-figure-center anchored" data-group="masjid">
 <figure class="quarto-float quarto-subfloat-fig figure">
 <div aria-describedby="fig-masjid02-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<a href="img_melaka_masjid_02.jpg" class="lightbox" data-gallery="masjid" title="Figure&nbsp;5&nbsp;(b): Masjid Selat Melaka on the Malacca Strait."><img src="https://afsarchowdhury.github.io/posts/2025-02-07-malacca/img_melaka_masjid_02.jpg" class="img-fluid figure-img" data-ref-parent="fig-masjid"></a>
+<a href="img_melaka_masjid_02.jpg" class="lightbox" data-gallery="masjid" title="Figure&nbsp;5&nbsp;(b): Masjid Selat Melaka on the Malacca Strait."><img src="https://afsarchowdhury.github.io/posts/2025-02-07-malacca/img_melaka_masjid_02.jpg" class="preview-image img-fluid figure-img" data-ref-parent="fig-masjid"></a>
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-subfloat-caption quarto-subfloat-fig" id="fig-masjid02-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 (b) Masjid Selat Melaka on the Malacca Strait.
@@ -219,23 +219,23 @@ Figure&nbsp;6: An abandoned housing estate.
 <p>Here is a breakdown of the cost of getting to Malacca City.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div id="nzampyoawv" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#nzampyoawv table {
+<div id="xbmwotsuto" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#xbmwotsuto table {
   font-family: 'Verdana Pro';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#nzampyoawv thead, #nzampyoawv tbody, #nzampyoawv tfoot, #nzampyoawv tr, #nzampyoawv td, #nzampyoawv th {
+#xbmwotsuto thead, #xbmwotsuto tbody, #xbmwotsuto tfoot, #xbmwotsuto tr, #xbmwotsuto td, #xbmwotsuto th {
   border-style: none;
 }
 
-#nzampyoawv p {
+#xbmwotsuto p {
   margin: 0;
   padding: 0;
 }
 
-#nzampyoawv .gt_table {
+#xbmwotsuto .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -261,12 +261,12 @@ Figure&nbsp;6: An abandoned housing estate.
   border-left-color: #D3D3D3;
 }
 
-#nzampyoawv .gt_caption {
+#xbmwotsuto .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#nzampyoawv .gt_title {
+#xbmwotsuto .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -278,7 +278,7 @@ Figure&nbsp;6: An abandoned housing estate.
   border-bottom-width: 0;
 }
 
-#nzampyoawv .gt_subtitle {
+#xbmwotsuto .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -290,7 +290,7 @@ Figure&nbsp;6: An abandoned housing estate.
   border-top-width: 0;
 }
 
-#nzampyoawv .gt_heading {
+#xbmwotsuto .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -302,13 +302,13 @@ Figure&nbsp;6: An abandoned housing estate.
   border-right-color: #D3D3D3;
 }
 
-#nzampyoawv .gt_bottom_border {
+#xbmwotsuto .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#nzampyoawv .gt_col_headings {
+#xbmwotsuto .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -323,7 +323,7 @@ Figure&nbsp;6: An abandoned housing estate.
   border-right-color: #D3D3D3;
 }
 
-#nzampyoawv .gt_col_heading {
+#xbmwotsuto .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -343,7 +343,7 @@ Figure&nbsp;6: An abandoned housing estate.
   overflow-x: hidden;
 }
 
-#nzampyoawv .gt_column_spanner_outer {
+#xbmwotsuto .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -355,15 +355,15 @@ Figure&nbsp;6: An abandoned housing estate.
   padding-right: 4px;
 }
 
-#nzampyoawv .gt_column_spanner_outer:first-child {
+#xbmwotsuto .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#nzampyoawv .gt_column_spanner_outer:last-child {
+#xbmwotsuto .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#nzampyoawv .gt_column_spanner {
+#xbmwotsuto .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -375,11 +375,11 @@ Figure&nbsp;6: An abandoned housing estate.
   width: 100%;
 }
 
-#nzampyoawv .gt_spanner_row {
+#xbmwotsuto .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#nzampyoawv .gt_group_heading {
+#xbmwotsuto .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -405,7 +405,7 @@ Figure&nbsp;6: An abandoned housing estate.
   text-align: left;
 }
 
-#nzampyoawv .gt_empty_group_heading {
+#xbmwotsuto .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -420,15 +420,15 @@ Figure&nbsp;6: An abandoned housing estate.
   vertical-align: middle;
 }
 
-#nzampyoawv .gt_from_md > :first-child {
+#xbmwotsuto .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#nzampyoawv .gt_from_md > :last-child {
+#xbmwotsuto .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#nzampyoawv .gt_row {
+#xbmwotsuto .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -447,7 +447,7 @@ Figure&nbsp;6: An abandoned housing estate.
   overflow-x: hidden;
 }
 
-#nzampyoawv .gt_stub {
+#xbmwotsuto .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -460,7 +460,7 @@ Figure&nbsp;6: An abandoned housing estate.
   padding-right: 5px;
 }
 
-#nzampyoawv .gt_stub_row_group {
+#xbmwotsuto .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -474,15 +474,15 @@ Figure&nbsp;6: An abandoned housing estate.
   vertical-align: top;
 }
 
-#nzampyoawv .gt_row_group_first td {
+#xbmwotsuto .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#nzampyoawv .gt_row_group_first th {
+#xbmwotsuto .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#nzampyoawv .gt_summary_row {
+#xbmwotsuto .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -492,16 +492,16 @@ Figure&nbsp;6: An abandoned housing estate.
   padding-right: 5px;
 }
 
-#nzampyoawv .gt_first_summary_row {
+#xbmwotsuto .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#nzampyoawv .gt_first_summary_row.thick {
+#xbmwotsuto .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#nzampyoawv .gt_last_summary_row {
+#xbmwotsuto .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -511,7 +511,7 @@ Figure&nbsp;6: An abandoned housing estate.
   border-bottom-color: #D3D3D3;
 }
 
-#nzampyoawv .gt_grand_summary_row {
+#xbmwotsuto .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -521,7 +521,7 @@ Figure&nbsp;6: An abandoned housing estate.
   padding-right: 5px;
 }
 
-#nzampyoawv .gt_first_grand_summary_row {
+#xbmwotsuto .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -531,7 +531,7 @@ Figure&nbsp;6: An abandoned housing estate.
   border-top-color: #D3D3D3;
 }
 
-#nzampyoawv .gt_last_grand_summary_row_top {
+#xbmwotsuto .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -541,11 +541,11 @@ Figure&nbsp;6: An abandoned housing estate.
   border-bottom-color: #D3D3D3;
 }
 
-#nzampyoawv .gt_striped {
+#xbmwotsuto .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#nzampyoawv .gt_table_body {
+#xbmwotsuto .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -554,7 +554,7 @@ Figure&nbsp;6: An abandoned housing estate.
   border-bottom-color: #D3D3D3;
 }
 
-#nzampyoawv .gt_footnotes {
+#xbmwotsuto .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -568,7 +568,7 @@ Figure&nbsp;6: An abandoned housing estate.
   border-right-color: #D3D3D3;
 }
 
-#nzampyoawv .gt_footnote {
+#xbmwotsuto .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -577,7 +577,7 @@ Figure&nbsp;6: An abandoned housing estate.
   padding-right: 5px;
 }
 
-#nzampyoawv .gt_sourcenotes {
+#xbmwotsuto .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -591,7 +591,7 @@ Figure&nbsp;6: An abandoned housing estate.
   border-right-color: #D3D3D3;
 }
 
-#nzampyoawv .gt_sourcenote {
+#xbmwotsuto .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -599,72 +599,72 @@ Figure&nbsp;6: An abandoned housing estate.
   padding-right: 5px;
 }
 
-#nzampyoawv .gt_left {
+#xbmwotsuto .gt_left {
   text-align: left;
 }
 
-#nzampyoawv .gt_center {
+#xbmwotsuto .gt_center {
   text-align: center;
 }
 
-#nzampyoawv .gt_right {
+#xbmwotsuto .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#nzampyoawv .gt_font_normal {
+#xbmwotsuto .gt_font_normal {
   font-weight: normal;
 }
 
-#nzampyoawv .gt_font_bold {
+#xbmwotsuto .gt_font_bold {
   font-weight: bold;
 }
 
-#nzampyoawv .gt_font_italic {
+#xbmwotsuto .gt_font_italic {
   font-style: italic;
 }
 
-#nzampyoawv .gt_super {
+#xbmwotsuto .gt_super {
   font-size: 65%;
 }
 
-#nzampyoawv .gt_footnote_marks {
+#xbmwotsuto .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#nzampyoawv .gt_asterisk {
+#xbmwotsuto .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#nzampyoawv .gt_indent_1 {
+#xbmwotsuto .gt_indent_1 {
   text-indent: 5px;
 }
 
-#nzampyoawv .gt_indent_2 {
+#xbmwotsuto .gt_indent_2 {
   text-indent: 10px;
 }
 
-#nzampyoawv .gt_indent_3 {
+#xbmwotsuto .gt_indent_3 {
   text-indent: 15px;
 }
 
-#nzampyoawv .gt_indent_4 {
+#xbmwotsuto .gt_indent_4 {
   text-indent: 20px;
 }
 
-#nzampyoawv .gt_indent_5 {
+#xbmwotsuto .gt_indent_5 {
   text-indent: 25px;
 }
 
-#nzampyoawv .katex-display {
+#xbmwotsuto .katex-display {
   display: inline-flex !important;
   margin-bottom: 0.75em !important;
 }
 
-#nzampyoawv div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+#xbmwotsuto div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
   height: 0px !important;
 }
 </style>
@@ -705,13 +705,14 @@ Figure&nbsp;6: An abandoned housing estate.
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{chowdhury2025,
   author = {Chowdhury, Afsar},
-  title = {Malacca},
+  title = {A Legacy of Conquests},
   date = {2025-02-07},
   url = {https://afsarchowdhury.github.io/posts/2025-02-07-malacca/malacca.html},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-chowdhury2025" class="csl-entry quarto-appendix-citeas">
-Chowdhury, Afsar. 2025. <span>“Malacca.”</span> February 7, 2025. <a href="https://afsarchowdhury.github.io/posts/2025-02-07-malacca/malacca.html">https://afsarchowdhury.github.io/posts/2025-02-07-malacca/malacca.html</a>.
+Chowdhury, Afsar. 2025. <span>“A Legacy of Conquests.”</span> February
+7, 2025. <a href="https://afsarchowdhury.github.io/posts/2025-02-07-malacca/malacca.html">https://afsarchowdhury.github.io/posts/2025-02-07-malacca/malacca.html</a>.
 </div></div></section></div> ]]></description>
   <category>malacca</category>
   <category>malaysia</category>
@@ -719,7 +720,7 @@ Chowdhury, Afsar. 2025. <span>“Malacca.”</span> February 7, 2025. <a href="h
   <pubDate>Thu, 06 Feb 2025 18:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>Putrajaya</title>
+  <title>Squaring the circle</title>
   <dc:creator>Afsar Chowdhury</dc:creator>
   <link>https://afsarchowdhury.github.io/posts/2025-01-26-putrajaya/putrajaya.html</link>
   <description><![CDATA[ 
@@ -784,7 +785,7 @@ Figure&nbsp;2: One-hour bus journey to Putra Square.
 </section>
 <section id="putra-square" class="level2">
 <h2 class="anchored" data-anchor-id="putra-square">Putra Square</h2>
-<p>I have no idea why they call it a <em>square</em>, because it is actually a <em>circle</em>. Maybe, <em>Putra Circle</em> does not quite have the same international ring to it as <em>Putra Square</em> (Trafalgar Square, Time Square, Tiananmen Square, <em>etc.</em>). In any case, as the bus arrives at Putra Square, you can see that the government mean business: grand structures designed with an infusion of cultures ready to stand the test of time, with a hint of intent, signalling to the world that Malaysia’s time has come.</p>
+<p>As with all city “squares” out there, I have no idea why they call it a <em>square</em>, because it is actually a <em>circle</em>. In any case, as the bus arrives at Putra Square, you can see that the government mean business: grand structures designed with an infusion of cultures ready to stand the test of time, with a hint of intent, signalling to the world that Malaysia’s time has come.</p>
 <section id="prime-ministers-office" class="level3">
 <h3 class="anchored" data-anchor-id="prime-ministers-office">Prime Minister’s office</h3>
 <p>For obvious reasons, the Prime Minister’s office is not accessible to the general public.</p>
@@ -899,23 +900,23 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
 <p>Here is a breakdown of the cost of the trip.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div id="gtqwywfacf" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#gtqwywfacf table {
+<div id="jsxmqixpck" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#jsxmqixpck table {
   font-family: 'Verdana Pro';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#gtqwywfacf thead, #gtqwywfacf tbody, #gtqwywfacf tfoot, #gtqwywfacf tr, #gtqwywfacf td, #gtqwywfacf th {
+#jsxmqixpck thead, #jsxmqixpck tbody, #jsxmqixpck tfoot, #jsxmqixpck tr, #jsxmqixpck td, #jsxmqixpck th {
   border-style: none;
 }
 
-#gtqwywfacf p {
+#jsxmqixpck p {
   margin: 0;
   padding: 0;
 }
 
-#gtqwywfacf .gt_table {
+#jsxmqixpck .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -941,12 +942,12 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   border-left-color: #D3D3D3;
 }
 
-#gtqwywfacf .gt_caption {
+#jsxmqixpck .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#gtqwywfacf .gt_title {
+#jsxmqixpck .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -958,7 +959,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   border-bottom-width: 0;
 }
 
-#gtqwywfacf .gt_subtitle {
+#jsxmqixpck .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -970,7 +971,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   border-top-width: 0;
 }
 
-#gtqwywfacf .gt_heading {
+#jsxmqixpck .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -982,13 +983,13 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   border-right-color: #D3D3D3;
 }
 
-#gtqwywfacf .gt_bottom_border {
+#jsxmqixpck .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#gtqwywfacf .gt_col_headings {
+#jsxmqixpck .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1003,7 +1004,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   border-right-color: #D3D3D3;
 }
 
-#gtqwywfacf .gt_col_heading {
+#jsxmqixpck .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1023,7 +1024,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   overflow-x: hidden;
 }
 
-#gtqwywfacf .gt_column_spanner_outer {
+#jsxmqixpck .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1035,15 +1036,15 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   padding-right: 4px;
 }
 
-#gtqwywfacf .gt_column_spanner_outer:first-child {
+#jsxmqixpck .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#gtqwywfacf .gt_column_spanner_outer:last-child {
+#jsxmqixpck .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#gtqwywfacf .gt_column_spanner {
+#jsxmqixpck .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1055,11 +1056,11 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   width: 100%;
 }
 
-#gtqwywfacf .gt_spanner_row {
+#jsxmqixpck .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#gtqwywfacf .gt_group_heading {
+#jsxmqixpck .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1085,7 +1086,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   text-align: left;
 }
 
-#gtqwywfacf .gt_empty_group_heading {
+#jsxmqixpck .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1100,15 +1101,15 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   vertical-align: middle;
 }
 
-#gtqwywfacf .gt_from_md > :first-child {
+#jsxmqixpck .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#gtqwywfacf .gt_from_md > :last-child {
+#jsxmqixpck .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#gtqwywfacf .gt_row {
+#jsxmqixpck .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1127,7 +1128,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   overflow-x: hidden;
 }
 
-#gtqwywfacf .gt_stub {
+#jsxmqixpck .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1140,7 +1141,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   padding-right: 5px;
 }
 
-#gtqwywfacf .gt_stub_row_group {
+#jsxmqixpck .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1154,15 +1155,15 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   vertical-align: top;
 }
 
-#gtqwywfacf .gt_row_group_first td {
+#jsxmqixpck .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#gtqwywfacf .gt_row_group_first th {
+#jsxmqixpck .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#gtqwywfacf .gt_summary_row {
+#jsxmqixpck .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1172,16 +1173,16 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   padding-right: 5px;
 }
 
-#gtqwywfacf .gt_first_summary_row {
+#jsxmqixpck .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#gtqwywfacf .gt_first_summary_row.thick {
+#jsxmqixpck .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#gtqwywfacf .gt_last_summary_row {
+#jsxmqixpck .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1191,7 +1192,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   border-bottom-color: #D3D3D3;
 }
 
-#gtqwywfacf .gt_grand_summary_row {
+#jsxmqixpck .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1201,7 +1202,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   padding-right: 5px;
 }
 
-#gtqwywfacf .gt_first_grand_summary_row {
+#jsxmqixpck .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1211,7 +1212,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   border-top-color: #D3D3D3;
 }
 
-#gtqwywfacf .gt_last_grand_summary_row_top {
+#jsxmqixpck .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1221,11 +1222,11 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   border-bottom-color: #D3D3D3;
 }
 
-#gtqwywfacf .gt_striped {
+#jsxmqixpck .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#gtqwywfacf .gt_table_body {
+#jsxmqixpck .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1234,7 +1235,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   border-bottom-color: #D3D3D3;
 }
 
-#gtqwywfacf .gt_footnotes {
+#jsxmqixpck .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1248,7 +1249,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   border-right-color: #D3D3D3;
 }
 
-#gtqwywfacf .gt_footnote {
+#jsxmqixpck .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -1257,7 +1258,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   padding-right: 5px;
 }
 
-#gtqwywfacf .gt_sourcenotes {
+#jsxmqixpck .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1271,7 +1272,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   border-right-color: #D3D3D3;
 }
 
-#gtqwywfacf .gt_sourcenote {
+#jsxmqixpck .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -1279,64 +1280,73 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
   padding-right: 5px;
 }
 
-#gtqwywfacf .gt_left {
+#jsxmqixpck .gt_left {
   text-align: left;
 }
 
-#gtqwywfacf .gt_center {
+#jsxmqixpck .gt_center {
   text-align: center;
 }
 
-#gtqwywfacf .gt_right {
+#jsxmqixpck .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#gtqwywfacf .gt_font_normal {
+#jsxmqixpck .gt_font_normal {
   font-weight: normal;
 }
 
-#gtqwywfacf .gt_font_bold {
+#jsxmqixpck .gt_font_bold {
   font-weight: bold;
 }
 
-#gtqwywfacf .gt_font_italic {
+#jsxmqixpck .gt_font_italic {
   font-style: italic;
 }
 
-#gtqwywfacf .gt_super {
+#jsxmqixpck .gt_super {
   font-size: 65%;
 }
 
-#gtqwywfacf .gt_footnote_marks {
+#jsxmqixpck .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#gtqwywfacf .gt_asterisk {
+#jsxmqixpck .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#gtqwywfacf .gt_indent_1 {
+#jsxmqixpck .gt_indent_1 {
   text-indent: 5px;
 }
 
-#gtqwywfacf .gt_indent_2 {
+#jsxmqixpck .gt_indent_2 {
   text-indent: 10px;
 }
 
-#gtqwywfacf .gt_indent_3 {
+#jsxmqixpck .gt_indent_3 {
   text-indent: 15px;
 }
 
-#gtqwywfacf .gt_indent_4 {
+#jsxmqixpck .gt_indent_4 {
   text-indent: 20px;
 }
 
-#gtqwywfacf .gt_indent_5 {
+#jsxmqixpck .gt_indent_5 {
   text-indent: 25px;
+}
+
+#jsxmqixpck .katex-display {
+  display: inline-flex !important;
+  margin-bottom: 0.75em !important;
+}
+
+#jsxmqixpck div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+  height: 0px !important;
 }
 </style>
 
@@ -1344,7 +1354,7 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
 <thead>
 <tr class="gt_col_headings header">
 <th id="Item" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Item</th>
-<th id="Cost in MYR" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" scope="col">Cost in MYR</th>
+<th id="Cost-in-MYR" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" scope="col">Cost in MYR</th>
 </tr>
 </thead>
 <tbody class="gt_table_body">
@@ -1373,13 +1383,14 @@ Figure&nbsp;4: The Putra Masjid in Putra Square.
 
 <div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{chowdhury2025,
   author = {Chowdhury, Afsar},
-  title = {Putrajaya},
+  title = {Squaring the Circle},
   date = {2025-01-26},
   url = {https://afsarchowdhury.github.io/posts/2025-01-26-putrajaya/putrajaya.html},
   langid = {en}
 }
 </code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-chowdhury2025" class="csl-entry quarto-appendix-citeas">
-Chowdhury, Afsar. 2025. <span>“Putrajaya.”</span> January 26, 2025. <a href="https://afsarchowdhury.github.io/posts/2025-01-26-putrajaya/putrajaya.html">https://afsarchowdhury.github.io/posts/2025-01-26-putrajaya/putrajaya.html</a>.
+Chowdhury, Afsar. 2025. <span>“Squaring the Circle.”</span> January 26,
+2025. <a href="https://afsarchowdhury.github.io/posts/2025-01-26-putrajaya/putrajaya.html">https://afsarchowdhury.github.io/posts/2025-01-26-putrajaya/putrajaya.html</a>.
 </div></div></section></div> ]]></description>
   <category>putra square</category>
   <category>putrajaya</category>
@@ -1564,23 +1575,23 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
 <p>Here is a breakdown of the cost of getting to Kuala Lumpur.</p>
 <div class="cell">
 <div class="cell-output-display">
-<div id="tlycesnseo" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#tlycesnseo table {
+<div id="cutlygrwbm" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#cutlygrwbm table {
   font-family: 'Verdana Pro';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#tlycesnseo thead, #tlycesnseo tbody, #tlycesnseo tfoot, #tlycesnseo tr, #tlycesnseo td, #tlycesnseo th {
+#cutlygrwbm thead, #cutlygrwbm tbody, #cutlygrwbm tfoot, #cutlygrwbm tr, #cutlygrwbm td, #cutlygrwbm th {
   border-style: none;
 }
 
-#tlycesnseo p {
+#cutlygrwbm p {
   margin: 0;
   padding: 0;
 }
 
-#tlycesnseo .gt_table {
+#cutlygrwbm .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -1606,12 +1617,12 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   border-left-color: #D3D3D3;
 }
 
-#tlycesnseo .gt_caption {
+#cutlygrwbm .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#tlycesnseo .gt_title {
+#cutlygrwbm .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -1623,7 +1634,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   border-bottom-width: 0;
 }
 
-#tlycesnseo .gt_subtitle {
+#cutlygrwbm .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -1635,7 +1646,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   border-top-width: 0;
 }
 
-#tlycesnseo .gt_heading {
+#cutlygrwbm .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -1647,13 +1658,13 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   border-right-color: #D3D3D3;
 }
 
-#tlycesnseo .gt_bottom_border {
+#cutlygrwbm .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#tlycesnseo .gt_col_headings {
+#cutlygrwbm .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1668,7 +1679,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   border-right-color: #D3D3D3;
 }
 
-#tlycesnseo .gt_col_heading {
+#cutlygrwbm .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1688,7 +1699,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   overflow-x: hidden;
 }
 
-#tlycesnseo .gt_column_spanner_outer {
+#cutlygrwbm .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1700,15 +1711,15 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   padding-right: 4px;
 }
 
-#tlycesnseo .gt_column_spanner_outer:first-child {
+#cutlygrwbm .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#tlycesnseo .gt_column_spanner_outer:last-child {
+#cutlygrwbm .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#tlycesnseo .gt_column_spanner {
+#cutlygrwbm .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -1720,11 +1731,11 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   width: 100%;
 }
 
-#tlycesnseo .gt_spanner_row {
+#cutlygrwbm .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#tlycesnseo .gt_group_heading {
+#cutlygrwbm .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1750,7 +1761,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   text-align: left;
 }
 
-#tlycesnseo .gt_empty_group_heading {
+#cutlygrwbm .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -1765,15 +1776,15 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   vertical-align: middle;
 }
 
-#tlycesnseo .gt_from_md > :first-child {
+#cutlygrwbm .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#tlycesnseo .gt_from_md > :last-child {
+#cutlygrwbm .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#tlycesnseo .gt_row {
+#cutlygrwbm .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1792,7 +1803,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   overflow-x: hidden;
 }
 
-#tlycesnseo .gt_stub {
+#cutlygrwbm .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1805,7 +1816,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   padding-right: 5px;
 }
 
-#tlycesnseo .gt_stub_row_group {
+#cutlygrwbm .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -1819,15 +1830,15 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   vertical-align: top;
 }
 
-#tlycesnseo .gt_row_group_first td {
+#cutlygrwbm .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#tlycesnseo .gt_row_group_first th {
+#cutlygrwbm .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#tlycesnseo .gt_summary_row {
+#cutlygrwbm .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1837,16 +1848,16 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   padding-right: 5px;
 }
 
-#tlycesnseo .gt_first_summary_row {
+#cutlygrwbm .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#tlycesnseo .gt_first_summary_row.thick {
+#cutlygrwbm .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#tlycesnseo .gt_last_summary_row {
+#cutlygrwbm .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1856,7 +1867,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   border-bottom-color: #D3D3D3;
 }
 
-#tlycesnseo .gt_grand_summary_row {
+#cutlygrwbm .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -1866,7 +1877,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   padding-right: 5px;
 }
 
-#tlycesnseo .gt_first_grand_summary_row {
+#cutlygrwbm .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1876,7 +1887,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   border-top-color: #D3D3D3;
 }
 
-#tlycesnseo .gt_last_grand_summary_row_top {
+#cutlygrwbm .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -1886,11 +1897,11 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   border-bottom-color: #D3D3D3;
 }
 
-#tlycesnseo .gt_striped {
+#cutlygrwbm .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#tlycesnseo .gt_table_body {
+#cutlygrwbm .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -1899,7 +1910,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   border-bottom-color: #D3D3D3;
 }
 
-#tlycesnseo .gt_footnotes {
+#cutlygrwbm .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1913,7 +1924,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   border-right-color: #D3D3D3;
 }
 
-#tlycesnseo .gt_footnote {
+#cutlygrwbm .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -1922,7 +1933,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   padding-right: 5px;
 }
 
-#tlycesnseo .gt_sourcenotes {
+#cutlygrwbm .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -1936,7 +1947,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   border-right-color: #D3D3D3;
 }
 
-#tlycesnseo .gt_sourcenote {
+#cutlygrwbm .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -1944,64 +1955,73 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
   padding-right: 5px;
 }
 
-#tlycesnseo .gt_left {
+#cutlygrwbm .gt_left {
   text-align: left;
 }
 
-#tlycesnseo .gt_center {
+#cutlygrwbm .gt_center {
   text-align: center;
 }
 
-#tlycesnseo .gt_right {
+#cutlygrwbm .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#tlycesnseo .gt_font_normal {
+#cutlygrwbm .gt_font_normal {
   font-weight: normal;
 }
 
-#tlycesnseo .gt_font_bold {
+#cutlygrwbm .gt_font_bold {
   font-weight: bold;
 }
 
-#tlycesnseo .gt_font_italic {
+#cutlygrwbm .gt_font_italic {
   font-style: italic;
 }
 
-#tlycesnseo .gt_super {
+#cutlygrwbm .gt_super {
   font-size: 65%;
 }
 
-#tlycesnseo .gt_footnote_marks {
+#cutlygrwbm .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#tlycesnseo .gt_asterisk {
+#cutlygrwbm .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#tlycesnseo .gt_indent_1 {
+#cutlygrwbm .gt_indent_1 {
   text-indent: 5px;
 }
 
-#tlycesnseo .gt_indent_2 {
+#cutlygrwbm .gt_indent_2 {
   text-indent: 10px;
 }
 
-#tlycesnseo .gt_indent_3 {
+#cutlygrwbm .gt_indent_3 {
   text-indent: 15px;
 }
 
-#tlycesnseo .gt_indent_4 {
+#cutlygrwbm .gt_indent_4 {
   text-indent: 20px;
 }
 
-#tlycesnseo .gt_indent_5 {
+#cutlygrwbm .gt_indent_5 {
   text-indent: 25px;
+}
+
+#cutlygrwbm .katex-display {
+  display: inline-flex !important;
+  margin-bottom: 0.75em !important;
+}
+
+#cutlygrwbm div.Reactable > div.rt-table > div.rt-thead > div.rt-tr.rt-tr-group-header > div.rt-th-group:after {
+  height: 0px !important;
 }
 </style>
 
@@ -2009,7 +2029,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
 <thead>
 <tr class="gt_col_headings header">
 <th id="Item" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" scope="col">Item</th>
-<th id="Cost in GBP" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" scope="col">Cost in GBP</th>
+<th id="Cost-in-GBP" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" scope="col">Cost in GBP</th>
 </tr>
 </thead>
 <tbody class="gt_table_body">
@@ -2018,7 +2038,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
 <td class="gt_row gt_right" headers="Cost in GBP">445.63</td>
 </tr>
 <tr class="even">
-<td class="gt_row gt_left gt_striped" headers="Item">Train ticket to Woodstock, Singapore<span class="gt_footnote_marks" style="white-space:nowrap;font-style:italic;font-weight:normal;"><sup>1</sup></span></td>
+<td class="gt_row gt_left gt_striped" headers="Item">Train ticket to Woodstock, Singapore<span class="gt_footnote_marks" style="white-space:nowrap;font-style:italic;font-weight:normal;line-height:0;"><sup>1</sup></span></td>
 <td class="gt_row gt_right gt_striped" headers="Cost in GBP">1.00</td>
 </tr>
 <tr class="odd">
@@ -2031,7 +2051,7 @@ Figure&nbsp;5: Climate in Kuala Lumpur.<sup>1</sup>
 </tr>
 </tbody><tfoot class="gt_footnotes">
 <tr class="odd">
-<td colspan="2" class="gt_footnote"><span class="gt_footnote_marks" style="white-space:nowrap;font-style:italic;font-weight:normal;"><sup>1</sup></span> For proof of onward travel.</td>
+<td colspan="2" class="gt_footnote"><span class="gt_footnote_marks" style="white-space:nowrap;font-style:italic;font-weight:normal;line-height:0;"><sup>1</sup></span> For proof of onward travel.</td>
 </tr>
 </tfoot>
 
@@ -2207,15 +2227,15 @@ January 19, 2025. <a href="https://afsarchowdhury.github.io/posts/2025-01-19-mal
 
 
 
-<p>I chased the latent echoes of my heart that lingered beyond campfire stories. I “roamed and rambled […] to the sparkling sands of her diamond deserts”.</p>
-<p>Welcome. Here, you will find prosaic musings of my <em>lost chapters</em>.</p>
+<p>I chased the latent echoes of my heart that lingered beyond campfire stories. Echoes of stories untold and chapters unseen.</p>
+<p>Here, you will find prosaic musings of my <em>lost chapters</em>.</p>
 <div id="fig-tlc" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-tlc-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <img src="https://afsarchowdhury.github.io/posts/2025-01-09-welcome/img_welcome_tlc.jpg" class="img-fluid figure-img">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-tlc-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figure&nbsp;1: Dancing dust motes in the piercing sunlight uncovering the lost chapters.
+Figure&nbsp;1: Dancing dust motes in the piercing sunlight, uncovering the lost chapters.
 </figcaption>
 </figure>
 </div>

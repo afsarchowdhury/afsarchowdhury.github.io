@@ -1,7 +1,7 @@
 ---
 title: "Where the two rivers meet"
 description: |
-  First stop: Kuala Lumpur, Malaysia.
+  Kuala Lumpur, Malaysia.
 author:
   - name: Afsar Chowdhury
 citation: true

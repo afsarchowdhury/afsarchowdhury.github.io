@@ -1,7 +1,7 @@
 ---
-title: "Malacca"
+title: "A legacy of conquests"
 description: |
-  A legacy of European conquests.
+  Malacca, Malaysia.
 author:
   - name: Afsar Chowdhury
 citation: true
@@ -29,7 +29,7 @@ Malacca (spelled Melaka in Malaysia) is a state off the shores of the Melacca St
 
 Being an overland backpacker, flying was out of the question.  There is no rail line connecting Kuala Lumpur to Malacca --- at least not one that I am aware of --- which means coach it is.
 
-### 1: Kuala Lumpur City to Terminal Bersepadu Selatan
+### 1. Kuala Lumpur City to Terminal Bersepadu Selatan
 
 My first task was to make my way to the [Terminal Bersepadu Selatan (TBS)](https://maps.app.goo.gl/P7qjBsYExe5cvmTC7) bus station.  This is a ginormous bus station that has coaches leaving to all corners of the East Malaysian peninsula, including to Singapore (and possibly to Thailand).
 
@@ -79,7 +79,7 @@ The [Melacca Mosque](https://maps.app.goo.gl/sz5T4vBU1ds5aVxr7) is quite simply 
 
 ![Approaching the Masjid Selat Melaka.](img_melaka_masjid_01.jpg){#fig-masjid01 group="masjid"}
 
-![Masjid Selat Melaka on the Malacca Strait.](img_melaka_masjid_02.jpg){#fig-masjid02 group="masjid"}
+![Masjid Selat Melaka on the Malacca Strait.](img_melaka_masjid_02.jpg){#fig-masjid02 group="masjid" .preview-image}
 
 ![Inside the Masjid Selat Melaka.](img_melaka_masjid_03.jpg){#fig-masjid03 group="masjid"}
 
